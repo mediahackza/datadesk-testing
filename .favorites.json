@@ -1,0 +1,18 @@
+[
+    {
+        "type": "Directory",
+        "name": "/Applications/MAMP/htdocs/datadesk",
+        "parent_id": null,
+        "workspaceRoot": "/Applications/MAMP/htdocs/datadesk",
+        "workspacePath": "",
+        "id": "afJkqb1o0utQhdPe"
+    },
+    {
+        "type": "Directory",
+        "name": "/Applications/MAMP/htdocs/api/datadesk-api",
+        "parent_id": null,
+        "workspaceRoot": "/Applications/MAMP/htdocs/api/datadesk-api",
+        "workspacePath": "",
+        "id": "H123BLhxmkSdqElI"
+    }
+]
