@@ -2,7 +2,7 @@
   import { push, pop, replace } from 'svelte-spa-router'
   import { onMount } from 'svelte'
   export let params = {}
-  let api = 'http://api.datadesk.co.za/'
+  let api = 'https://api.datadesk.co.za/'
   import Icon from '../components/Icon.svelte'
   let record = []
 

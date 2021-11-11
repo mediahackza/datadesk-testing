@@ -5,7 +5,7 @@
   import InputSection from '../components/InputSection.svelte'
 
   // let api = 'http://localhost:8888/api/datadesk/'
-  let api = 'http://api.datadesk.co.za/'
+  let api = 'https://api.datadesk.co.za/'
   let tables = []
   export let loading = false
   export let reload = false
