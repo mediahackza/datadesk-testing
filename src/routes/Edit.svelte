@@ -17,13 +17,10 @@
   })
 
   function updateRecord() {
-    // let id = params.id
-    // let tags = record.tags
-    // console.log({ id, tags })
-
     let formData = new FormData()
     formData.append('id', params.id)
     formData.append('tags', record.tags)
+    formData.append('tablename', record.table_name)
     let API_ENDPOINT = `${api}update-record.php?id=${params.id}`
 
     fetch(API_ENDPOINT, {
@@ -48,7 +45,7 @@
     <table>
       <tr>
         <td class="label">Table name</td><td class="detail"
-          >{record.table_name}</td
+          ><input type="text" bind:value={record.table_name} /></td
         >
       </tr>
       <tr>
@@ -104,5 +101,8 @@
   }
   td.detail {
     text-align: left;
+  }
+  input {
+    width: 400px;
   }
 </style>

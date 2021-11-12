@@ -4,15 +4,30 @@
   import Icon from '../components/Icon.svelte'
   import InputSection from '../components/InputSection.svelte'
 
-  // let api = 'http://localhost:8888/api/datadesk/'
   let api = 'https://api.datadesk.co.za/'
   let tables = []
+  let tags = []
   export let loading = false
   export let reload = false
   let showDeleted = false
   let displayTables = []
   let tag
   let showInput = false
+
+  $: updateTags(tables)
+
+  function updateTags(tables) {
+    let tagsTemp = []
+    let currentTables = tables.filter((ct) => ct.deleted === 'false')
+    currentTables.forEach((t) => {
+      let tagsList = t.tags.split(',')
+      tagsTemp.push(...tagsList)
+    })
+    let newTags = [...new Set(tagsTemp)]
+    newTags.filter((f) => f !== null)
+    tags = newTags.sort((a, b) => (a > b ? -1 : 1))
+    console.log(tags)
+  }
 
   $: if (reload) {
     getTables()
@@ -107,27 +122,6 @@
   {#if showInput}
     <InputSection {reload} {loading} />
   {/if}
-  <!-- <div class="options">
-    <div class="options-item options-left">
-      {#if tag}
-        <span class="strong">Tag:</span>
-        {tag}
-        <div style="display: inline; padding-top: 5px;">
-          <div
-            class="tag-clear link"
-            on:click={() => {
-              tag = null
-            }}
-          >
-            [ Clear tag ]
-          </div>
-        </div>
-      {/if}
-    </div>
-    <div class="options-item options-right">
-      Show deleted: <input type="checkbox" bind:checked={showDeleted} />
-    </div>
-  </div> -->
   <div class="table-container">
     <div class="options">
       <div class="options-item options-left">
@@ -144,6 +138,13 @@
               [ Clear tag ]
             </div>
           </div>
+        {:else}
+          <select
+            ><option>Tag</option>
+            {#each tags as tag}
+              <option on:click={() => setTag(tag)}>{tag}</option>
+            {/each}
+          </select>
         {/if}
       </div>
       <div class="options-item options-right">
@@ -197,8 +198,12 @@
               ></span
             >
             <div class="table-links">
-              |
-              {table.db_name}
+              {#if table.type === 'local'}
+                <Icon name="database" strokeWidth="2" />
+                {table.db_name}
+              {:else if table.type === 'remote'}
+                <Icon name="file-text" strokeWidth="2" />
+              {/if}
               {#if table.source}
                 |
                 <a href={table.source} target="_blank">Source File</a>
@@ -207,10 +212,14 @@
                 |
                 <a href={table.original_file} target="_blank">Original</a>
               {/if}
-              | {table.updated} |
-              <div class="re-upload" on:click={() => reUpload(table.id)}>
-                <Icon name="upload" />
-              </div>
+              <br /><Icon name="calendar" strokeWidth="2" />
+              {table.updated}
+              {#if table.source && table.type}
+                |
+                <div class="re-upload" on:click={() => reUpload(table.id)}>
+                  <Icon name="upload" stroke="green" strokeWidth="2" />
+                </div>
+              {/if}
               {#if table.count}
                 | {table.count} rows
               {/if}
@@ -254,15 +263,6 @@
                 <Icon name="rotate-ccw" stroke="green" strokeWidth="2" />
               </div>
             {/if}
-            <!-- {:else}
-                <div
-                  class="delete-source"
-                  on:click={() => {
-                    deleteSource(table.id)
-                  }}
-                >
-                  <Icon name="arrow-ccw" stroke="green" />
-                </div> -->
           </td>
         </tr>
       {/each}

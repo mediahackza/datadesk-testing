@@ -154,7 +154,7 @@
 
         <br />
         <button id="fileLink" class="button-add" on:click={uploadCsvLink}
-          >Link table</button
+          >Add table</button
         >
       </div>
     </div>
@@ -222,7 +222,7 @@
     background: #fff;
   }
   .input-box {
-    background: #f8f8f8;
+    background: #fff;
     padding: 15px;
     border: solid 1px var(--gray100);
     min-height: 200px;
