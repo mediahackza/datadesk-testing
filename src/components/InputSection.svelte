@@ -1,5 +1,5 @@
 <script>
-  let api = 'http://api.datadesk.co.za/'
+  let api = 'https://api.datadesk.co.za/'
   let files
   let filename
   let fileLinkName
