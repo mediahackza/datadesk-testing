@@ -78,6 +78,18 @@
   function showInputBox() {
     showInput = !showInput
   }
+
+  function reUpload(id) {
+    let API_ENDPOINT = `${api}reload-remote-csv.php?id=${id}`
+    console.log(API_ENDPOINT)
+
+    fetch(API_ENDPOINT)
+      .then((response) => response.json())
+      .then((response) => {
+        reload = true
+        console.log('reloaded')
+      })
+  }
 </script>
 
 <main>
@@ -195,7 +207,10 @@
                 |
                 <a href={table.original_file} target="_blank">Original</a>
               {/if}
-              | {table.updated}
+              | {table.updated} |
+              <div class="re-upload" on:click={() => reUpload(table.id)}>
+                <Icon name="upload" />
+              </div>
               {#if table.count}
                 | {table.count} rows
               {/if}
@@ -418,5 +433,9 @@
   } */
   .table-border {
     border: solid 1px gray;
+  }
+  .re-upload {
+    cursor: pointer;
+    display: inline-block;
   }
 </style>
