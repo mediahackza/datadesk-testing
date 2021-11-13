@@ -111,9 +111,6 @@
   {#if loading}
     <div class="loading"><img src="assets/loading.svg" alt="Loading" /></div>
   {/if}
-  <div class="masthead">
-    <h1><img src="/assets/datadesk.svg" alt="Datadesk Logo" />DataDesk</h1>
-  </div>
 
   <div class="control-input" on:click={showInputBox}>
     <Icon name="file-plus" stroke="dodgerblue" strokeWidth="2" />
@@ -309,10 +306,7 @@
     margin-right: 10px;
     transform: translate(0px, 10px);
   }
-  .masthead {
-    color: #000;
-    font-weight: 900;
-  }
+
   .link-button {
     padding: 2px 10px;
     border: none;
