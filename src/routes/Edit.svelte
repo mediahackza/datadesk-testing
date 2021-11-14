@@ -21,7 +21,9 @@
     formData.append('id', params.id)
     formData.append('tags', record.tags)
     formData.append('tablename', record.table_name)
+    formData.append('original_file', record.original_file)
     let API_ENDPOINT = `${api}update-record.php?id=${params.id}`
+    // console.log(params)
 
     fetch(API_ENDPOINT, {
       method: 'POST',
@@ -29,6 +31,8 @@
     })
       .then((response) => response.json())
       .then((response) => {
+        console.log(response)
+
         push('/')
       })
   }
@@ -57,8 +61,8 @@
         >
       </tr>
       <tr>
-        <td class="label">Original</td><td class="detail"
-          >{record.original_file}</td
+        <td class="label">Original File</td><td class="detail"
+          ><input type="text" bind:value={record.original_file} /></td
         >
       </tr>
 
