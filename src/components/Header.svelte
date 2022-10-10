@@ -5,6 +5,7 @@
     <button on:click class="logout">Logout</button>
   </div>
   <h1><img src="/assets/datadesk.svg" alt="Datadesk Logo" />DataDesk</h1>
+  <div class="version">Version 0.1</div>
 </div>
 
 <style>
@@ -29,5 +30,9 @@
   .logout {
     background: #000;
     color: #fff;
+  }
+  .version {
+    font-weight: 400;
+    font-size: 0.8rem;
   }
 </style>
