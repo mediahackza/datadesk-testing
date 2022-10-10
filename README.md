@@ -13,3 +13,7 @@ Features include but are not necessarily limited to:
 - Output CSV
 - Tags to manage files
 - Edit meta data for records
+
+### Contact
+
+[info@datadesk.co.za](mailto:info@datadesk.co.za)
