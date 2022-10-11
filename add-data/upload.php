@@ -5,7 +5,8 @@ error_reporting(E_ALL);
 include("functions.php");
 include("../conf.php");
 
-    $currentDirectory = getcwd();
+    // $currentDirectory = getcwd();
+    $currentDirectory = realpath(dirname(getcwd()));
     $uploadDirectory = "/uploads/";
 
     $errors = []; // Store errors here
