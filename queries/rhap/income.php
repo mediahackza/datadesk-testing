@@ -19,5 +19,21 @@ while($row = $result->fetch_assoc()) {
     $data['minWageMonthly'][] = $row;
 }
 
+
+// basket costs
+$query = "select `year_month`, cost from dd2_s5uvadykq4 where item = 'Total'";
+$result = $db->query($query);
+while($row = $result->fetch_assoc()) {
+    $data['totalBasketCost'][] = $row;
+}
+
+$query = "select `year_month`, cost from dd2_s5uvadykq4 where item = 'Total'";
+$result = $db->query($query);
+while($row = $result->fetch_assoc()) {
+    $data['totalBasketCost'][] = $row;
+}
+
+
+
 echo json_encode($data);
 ?>
