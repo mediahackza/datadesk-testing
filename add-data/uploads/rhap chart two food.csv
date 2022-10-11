@@ -1,0 +1,2341 @@
+month,year,year_month,category,item,quantity,priority,vat,cost
+June,2018,2018-06,food,Apples,1.5kg,no,no,17.82
+June,2018,2018-06,food,Apricot jam,900g x2,no,yes,49.31
+June,2018,2018-06,food,Bananas,4kg,no,no,42.63
+June,2018,2018-06,food,Beef,2kg,no,yes,152.98
+June,2018,2018-06,food,Beef livers,2kg,no,yes,
+June,2018,2018-06,food,Brown bread,25 loaves,no,no,226.54
+June,2018,2018-06,food,Butternut,10kg,no,no,40.94
+June,2018,2018-06,food,Cabbage,2 heads,no,no,25.32
+June,2018,2018-06,food,Cake Flour,10kg,yes,yes,70.82
+June,2018,2018-06,food,Canned beans,410g x6,no,yes,55.48
+June,2018,2018-06,food,Carrots,5kg,no,no,33.00
+June,2018,2018-06,food,Chicken feet,5kg,no,yes,155.97
+June,2018,2018-06,food,Chicken livers,2kg,no,yes,
+June,2018,2018-06,food,Cooking oil,5L,yes,no,72.66
+June,2018,2018-06,food,Cremora,800g,no,yes,32.49
+June,2018,2018-06,food,Curry powder,200g,yes,yes,26.99
+June,2018,2018-06,food,Eggs,60 eggs,no,no,97.99
+June,2018,2018-06,food,Fish,2kg,no,yes,
+June,2018,2018-06,food,Frozen chicken portions,10kg,yes,yes,327.98
+June,2018,2018-06,food,Full cream milk,6L,no,yes,
+June,2018,2018-06,food,Gizzards,2kg,no,yes,55.99
+June,2018,2018-06,food,Green pepper,2kg,no,yes,
+June,2018,2018-06,food,Inyama yangapakhathi,2kg,no,yes,49.44
+June,2018,2018-06,food,Maas,4L,no,no,40.83
+June,2018,2018-06,food,Maize meal,35kg,yes,no,227.49
+June,2018,2018-06,food,Margarine,1kg x2,no,yes,62.98
+June,2018,2018-06,food,Onions,10kg,yes,no,64.75
+June,2018,2018-06,food,Oranges,7kg,no,yes,
+June,2018,2018-06,food,Peanut butter,400g x2,no,yes,49.31
+June,2018,2018-06,food,Polony,2.5kg,no,yes,50.82
+June,2018,2018-06,food,Potatoes,10kg,yes,no,50.94
+June,2018,2018-06,food,Rice,10kg,yes,no,74.32
+June,2018,2018-06,food,Salt,1kg,yes,yes,13.74
+June,2018,2018-06,food,Samp,5kg,yes,no,30.99
+June,2018,2018-06,food,Soup,400g x2,yes,yes,24.98
+June,2018,2018-06,food,Spinach,8 bunches,no,no,51.92
+June,2018,2018-06,food,Stock cubes,24 cubes x2,yes,yes,32.31
+June,2018,2018-06,food,Sugar beans,5kg,yes,no,96.82
+June,2018,2018-06,food,Tea,250g,yes,yes,23.49
+June,2018,2018-06,food,Tinned pilchards,400g x6,no,no,87.32
+June,2018,2018-06,food,Tomatoes,6kg,no,no,76.58
+June,2018,2018-06,food,Total,44 items,n/a,yes,3050.58
+June,2018,2018-06,food,White bread,25 loaves,no,yes,247.00
+June,2018,2018-06,food,White sugar,10kg,yes,yes,128.66
+June,2018,2018-06,food,Wors,2kg,no,yes,80.98
+July,2018,2018-07,food,Apples,1.5kg,no,no,14.83
+July,2018,2018-07,food,Apricot jam,900g x2,no,yes,46.65
+July,2018,2018-07,food,Bananas,4kg,no,no,40.63
+July,2018,2018-07,food,Beef,2kg,no,yes,150.98
+July,2018,2018-07,food,Beef livers,2kg,no,yes,
+July,2018,2018-07,food,Brown bread,25 loaves,no,no,222.38
+July,2018,2018-07,food,Butternut,10kg,no,no,49.35
+July,2018,2018-07,food,Cabbage,2 heads,no,no,23.98
+July,2018,2018-07,food,Cake Flour,10kg,yes,yes,72.49
+July,2018,2018-07,food,Canned beans,410g x6,no,yes,58.13
+July,2018,2018-07,food,Carrots,5kg,no,no,28.20
+July,2018,2018-07,food,Chicken feet,5kg,no,yes,154.72
+July,2018,2018-07,food,Chicken livers,2kg,no,yes,
+July,2018,2018-07,food,Cooking oil,5L,yes,no,75.32
+July,2018,2018-07,food,Cremora,800g,no,yes,32.32
+July,2018,2018-07,food,Curry powder,200g,yes,yes,25.99
+July,2018,2018-07,food,Eggs,60 eggs,no,no,96.82
+July,2018,2018-07,food,Fish,2kg,no,yes,
+July,2018,2018-07,food,Frozen chicken portions,10kg,yes,yes,327.98
+July,2018,2018-07,food,Full cream milk,6L,no,yes,
+July,2018,2018-07,food,Gizzards,2kg,no,yes,50.99
+July,2018,2018-07,food,Green pepper,2kg,no,yes,
+July,2018,2018-07,food,Inyama yangapakhathi,2kg,no,yes,50.49
+July,2018,2018-07,food,Maas,4L,no,no,41.33
+July,2018,2018-07,food,Maize meal,35kg,yes,no,234.99
+July,2018,2018-07,food,Margarine,1kg x2,no,yes,60.65
+July,2018,2018-07,food,Onions,10kg,yes,no,62.25
+July,2018,2018-07,food,Oranges,7kg,no,yes,
+July,2018,2018-07,food,Peanut butter,400g x2,no,yes,52.98
+July,2018,2018-07,food,Polony,2.5kg,no,yes,51.32
+July,2018,2018-07,food,Potatoes,10kg,yes,no,49.52
+July,2018,2018-07,food,Rice,10kg,yes,no,75.83
+July,2018,2018-07,food,Salt,1kg,yes,yes,13.74
+July,2018,2018-07,food,Samp,5kg,yes,no,29.49
+July,2018,2018-07,food,Soup,400g x2,yes,yes,26.31
+July,2018,2018-07,food,Spinach,8 bunches,no,no,63.92
+July,2018,2018-07,food,Stock cubes,24 cubes x2,yes,yes,34.31
+July,2018,2018-07,food,Sugar beans,5kg,yes,no,94.82
+July,2018,2018-07,food,Tea,250g,yes,yes,23.49
+July,2018,2018-07,food,Tinned pilchards,400g x6,no,no,88.32
+July,2018,2018-07,food,Tomatoes,6kg,no,no,64.99
+July,2018,2018-07,food,White bread,25 loaves,no,yes,244.50
+July,2018,2018-07,food,White sugar,10kg,yes,yes,125.49
+July,2018,2018-07,food,Wors,2kg,no,yes,79.48
+July,2018,2018-07,food,Total,44 items,n/a,yes,3039.97
+August,2018,2018-08,food,Stock cubes,24 cubes x2,yes,yes,31.65
+August,2018,2018-08,food,Apples,1.5kg,no,no,17.16
+August,2018,2018-08,food,Apricot jam,900g x2,no,yes,44.31
+August,2018,2018-08,food,Bananas,4kg,no,no,39.96
+August,2018,2018-08,food,Beef,2kg,no,yes,145.48
+August,2018,2018-08,food,Beef livers,2kg,no,yes,
+August,2018,2018-08,food,Brown bread,25 loaves,no,no,217.42
+August,2018,2018-08,food,Butternut,10kg,no,no,61.90
+August,2018,2018-08,food,Cabbage,2 heads,no,no,22.33
+August,2018,2018-08,food,Cake Flour,10kg,yes,yes,71.66
+August,2018,2018-08,food,Canned beans,410g x6,no,yes,57.30
+August,2018,2018-08,food,Carrots,5kg,no,no,14.67
+August,2018,2018-08,food,Chicken feet,5kg,no,yes,140.97
+August,2018,2018-08,food,Chicken livers,2kg,no,yes,
+August,2018,2018-08,food,Cooking oil,5L,yes,no,79.16
+August,2018,2018-08,food,Cremora,800g,no,yes,33.66
+August,2018,2018-08,food,Curry powder,200g,yes,yes,26.16
+August,2018,2018-08,food,Eggs,60 eggs,no,no,95.66
+August,2018,2018-08,food,Fish,2kg,no,yes,
+August,2018,2018-08,food,Frozen chicken portions,10kg,yes,yes,334.98
+August,2018,2018-08,food,Full cream milk,6L,no,yes,
+August,2018,2018-08,food,Gizzards,2kg,no,yes,47.48
+August,2018,2018-08,food,Green pepper,2kg,no,yes,
+August,2018,2018-08,food,Inyama yangapakhathi,2kg,no,yes,50.49
+August,2018,2018-08,food,Maas,4L,no,no,39.16
+August,2018,2018-08,food,Maize meal,35kg,yes,no,239.16
+August,2018,2018-08,food,Margarine,1kg x2,no,yes,62.65
+August,2018,2018-08,food,Onions,10kg,yes,no,66.54
+August,2018,2018-08,food,Oranges,7kg,no,yes,
+August,2018,2018-08,food,Peanut butter,400g x2,no,yes,47.98
+August,2018,2018-08,food,Polony,2.5kg,no,yes,52.16
+August,2018,2018-08,food,Potatoes,10kg,yes,no,50.23
+August,2018,2018-08,food,Rice,10kg,yes,no,75.49
+August,2018,2018-08,food,Salt,1kg,yes,yes,13.74
+August,2018,2018-08,food,Samp,5kg,yes,no,29.66
+August,2018,2018-08,food,Soup,400g x2,yes,yes,25.98
+August,2018,2018-08,food,Spinach,8 bunches,no,no,55.92
+August,2018,2018-08,food,Sugar beans,5kg,yes,no,92.66
+August,2018,2018-08,food,Tea,250g,yes,yes,23.99
+August,2018,2018-08,food,Tinned pilchards,400g x6,no,no,89.97
+August,2018,2018-08,food,Tomatoes,6kg,no,no,68.38
+August,2018,2018-08,food,White bread,25 loaves,no,yes,241.17
+August,2018,2018-08,food,White sugar,10kg,yes,yes,124.49
+August,2018,2018-08,food,Wors,2kg,no,yes,77.98
+August,2018,2018-08,food,Total,44 items,n/a,yes,3009.65
+September,2018,2018-09,food,Stock cubes,24 cubes x2,yes,yes,32.65
+September,2018,2018-09,food,Apples,1.5kg,no,no,14.49
+September,2018,2018-09,food,Apricot jam,900g x2,no,yes,49.65
+September,2018,2018-09,food,Bananas,4kg,no,no,35.29
+September,2018,2018-09,food,Beef,2kg,no,yes,143.98
+September,2018,2018-09,food,Beef livers,2kg,no,yes,
+September,2018,2018-09,food,Brown bread,25 loaves,no,no,219.46
+September,2018,2018-09,food,Butternut,10kg,no,no,68.27
+September,2018,2018-09,food,Cabbage,2 heads,no,no,21.99
+September,2018,2018-09,food,Cake Flour,10kg,yes,yes,76.49
+September,2018,2018-09,food,Canned beans,410g x6,no,yes,60.96
+September,2018,2018-09,food,Carrots,5kg,no,no,25.6
+September,2018,2018-09,food,Chicken feet,5kg,no,yes,144.72
+September,2018,2018-09,food,Chicken livers,2kg,no,yes,
+September,2018,2018-09,food,Cooking oil,5L,yes,no,78.32
+September,2018,2018-09,food,Cremora,800g,no,yes,33.99
+September,2018,2018-09,food,Curry powder,200g,yes,yes,26.49
+September,2018,2018-09,food,Eggs,60 eggs,no,no,94.16
+September,2018,2018-09,food,Fish,2kg,no,yes,
+September,2018,2018-09,food,Frozen chicken portions,10kg,yes,yes,309.48
+September,2018,2018-09,food,Full cream milk,6L,no,yes,
+September,2018,2018-09,food,Gizzards,2kg,no,yes,46.48
+September,2018,2018-09,food,Green pepper,2kg,no,yes,
+September,2018,2018-09,food,Inyama yangapakhathi,2kg,no,yes,60.48
+September,2018,2018-09,food,Maas,4L,no,no,41.32
+September,2018,2018-09,food,Maize meal,35kg,yes,no,239.32
+September,2018,2018-09,food,Margarine,1kg x2,no,yes,62.65
+September,2018,2018-09,food,Onions,10kg,yes,no,68.8
+September,2018,2018-09,food,Oranges,7kg,no,yes,
+September,2018,2018-09,food,Peanut butter,400g x2,no,yes,51.98
+September,2018,2018-09,food,Polony,2.5kg,no,yes,57.49
+September,2018,2018-09,food,Potatoes,10kg,yes,no,48.09
+September,2018,2018-09,food,Rice,10kg,yes,no,76.99
+September,2018,2018-09,food,Salt,1kg,yes,yes,13.91
+September,2018,2018-09,food,Samp,5kg,yes,no,29.49
+September,2018,2018-09,food,Soup,400g x2,yes,yes,24.65
+September,2018,2018-09,food,Spinach,8 bunches,no,no,47.92
+September,2018,2018-09,food,Sugar beans,5kg,yes,no,89.32
+September,2018,2018-09,food,Tea,250g,yes,yes,29.16
+September,2018,2018-09,food,Tinned pilchards,400g x6,no,no,93.96
+September,2018,2018-09,food,Tomatoes,6kg,no,no,51
+September,2018,2018-09,food,White bread,25 loaves,no,yes,242
+September,2018,2018-09,food,White sugar,10kg,yes,yes,123.82
+September,2018,2018-09,food,Wors,2kg,no,yes,85.48
+September,2018,2018-09,food,Total,44 items,n/a,yes,3020.28
+October,2018,2018-10,food,Stock cubes,24 cubes x2,yes,yes,37.65
+October,2018,2018-10,food,Apples,1.5kg,no,no,17.82
+October,2018,2018-10,food,Apricot jam,900g x2,no,yes,50.31
+October,2018,2018-10,food,Bananas,4kg,no,no,35.29
+October,2018,2018-10,food,Beef,2kg,no,yes,136.48
+October,2018,2018-10,food,Beef livers,2kg,no,yes,
+October,2018,2018-10,food,Brown bread,25 loaves,no,no,223.63
+October,2018,2018-10,food,Butternut,10kg,no,no,64.99
+October,2018,2018-10,food,Cabbage,2 heads,no,no,18.65
+October,2018,2018-10,food,Cake Flour,10kg,yes,yes,75.66
+October,2018,2018-10,food,Canned beans,410g x6,no,yes,60.63
+October,2018,2018-10,food,Carrots,5kg,no,no,31.66
+October,2018,2018-10,food,Chicken feet,5kg,no,yes,144.72
+October,2018,2018-10,food,Chicken livers,2kg,no,yes,
+October,2018,2018-10,food,Cooking oil,5L,yes,no,83.49
+October,2018,2018-10,food,Cremora,800g,no,yes,30.32
+October,2018,2018-10,food,Curry powder,200g,yes,yes,27.99
+October,2018,2018-10,food,Eggs,60 eggs,no,no,94.16
+October,2018,2018-10,food,Fish,2kg,no,yes,
+October,2018,2018-10,food,Frozen chicken portions,10kg,yes,yes,314.48
+October,2018,2018-10,food,Full cream milk,6L,no,yes,
+October,2018,2018-10,food,Gizzards,2kg,no,yes,40.48
+October,2018,2018-10,food,Green pepper,2kg,no,yes,
+October,2018,2018-10,food,Inyama yangapakhathi,2kg,no,yes,56.48
+October,2018,2018-10,food,Maas,4L,no,no,41.32
+October,2018,2018-10,food,Maize meal,35kg,yes,no,234.58
+October,2018,2018-10,food,Margarine,1kg x2,no,yes,59.32
+October,2018,2018-10,food,Onions,10kg,yes,no,67.8
+October,2018,2018-10,food,Oranges,7kg,no,yes,
+October,2018,2018-10,food,Peanut butter,400g x2,no,yes,48.65
+October,2018,2018-10,food,Polony,2.5kg,no,yes,58.99
+October,2018,2018-10,food,Potatoes,10kg,yes,no,48.68
+October,2018,2018-10,food,Rice,10kg,yes,no,76.82
+October,2018,2018-10,food,Salt,1kg,yes,yes,13.91
+October,2018,2018-10,food,Samp,5kg,yes,no,29.16
+October,2018,2018-10,food,Soup,400g x2,yes,yes,26.31
+October,2018,2018-10,food,Spinach,8 bunches,no,no,43.96
+October,2018,2018-10,food,Sugar beans,5kg,yes,no,85.82
+October,2018,2018-10,food,Tea,250g,yes,yes,29.16
+October,2018,2018-10,food,Tinned pilchards,400g x6,no,no,92.96
+October,2018,2018-10,food,Tomatoes,6kg,no,no,65.83
+October,2018,2018-10,food,White bread,25 loaves,no,yes,246.54
+October,2018,2018-10,food,White sugar,10kg,yes,yes,140.82
+October,2018,2018-10,food,Wors,2kg,no,yes,82.98
+October,2018,2018-10,food,Total,44 items,n/a,yes,3038.5
+November,2018,2018-11,food,Stock cubes,24 cubes x2,yes,yes,34.98
+November,2018,2018-11,food,Apples,1.5kg,no,no,19.16
+November,2018,2018-11,food,Apricot jam,900g x2,no,yes,53.31
+November,2018,2018-11,food,Bananas,4kg,no,no,36.63
+November,2018,2018-11,food,Beef,2kg,no,yes,132.48
+November,2018,2018-11,food,Beef livers,2kg,no,yes,
+November,2018,2018-11,food,Brown bread,25 loaves,no,no,234.04
+November,2018,2018-11,food,Butternut,10kg,no,no,68.56
+November,2018,2018-11,food,Cabbage,2 heads,no,no,18.99
+November,2018,2018-11,food,Cake Flour,10kg,yes,yes,78.33
+November,2018,2018-11,food,Canned beans,410g x6,no,yes,60.13
+November,2018,2018-11,food,Carrots,5kg,no,no,28.75
+November,2018,2018-11,food,Chicken feet,5kg,no,yes,117.22
+November,2018,2018-11,food,Chicken livers,2kg,no,yes,
+November,2018,2018-11,food,Cooking oil,5L,yes,no,83.66
+November,2018,2018-11,food,Cremora,800g,no,yes,32.32
+November,2018,2018-11,food,Curry powder,200g,yes,yes,26.49
+November,2018,2018-11,food,Eggs,60 eggs,no,no,94.16
+November,2018,2018-11,food,Fish,2kg,no,yes,
+November,2018,2018-11,food,Frozen chicken portions,10kg,yes,yes,304.48
+November,2018,2018-11,food,Full cream milk,6L,no,yes,
+November,2018,2018-11,food,Gizzards,2kg,no,yes,36.48
+November,2018,2018-11,food,Green pepper,2kg,no,yes,
+November,2018,2018-11,food,Inyama yangapakhathi,2kg,no,yes,53.98
+November,2018,2018-11,food,Maas,4L,no,no,42.32
+November,2018,2018-11,food,Maize meal,35kg,yes,no,231.38
+November,2018,2018-11,food,Margarine,1kg x2,no,yes,62.65
+November,2018,2018-11,food,Onions,10kg,yes,no,61.18
+November,2018,2018-11,food,Oranges,7kg,no,yes,
+November,2018,2018-11,food,Peanut butter,400g x2,no,yes,52.31
+November,2018,2018-11,food,Polony,2.5kg,no,yes,60.16
+November,2018,2018-11,food,Potatoes,10kg,yes,no,67.97
+November,2018,2018-11,food,Rice,10kg,yes,no,78.32
+November,2018,2018-11,food,Salt,1kg,yes,yes,13.91
+November,2018,2018-11,food,Samp,5kg,yes,no,30.82
+November,2018,2018-11,food,Soup,400g x2,yes,yes,26.98
+November,2018,2018-11,food,Spinach,8 bunches,no,no,39.97
+November,2018,2018-11,food,Sugar beans,5kg,yes,no,88.16
+November,2018,2018-11,food,Tea,250g,yes,yes,27.99
+November,2018,2018-11,food,Tinned pilchards,400g x6,no,no,92.96
+November,2018,2018-11,food,Tomatoes,6kg,no,no,83.31
+November,2018,2018-11,food,White bread,25 loaves,no,yes,254.88
+November,2018,2018-11,food,White sugar,10kg,yes,yes,143.66
+November,2018,2018-11,food,Wors,2kg,no,yes,82.98
+November,2018,2018-11,food,Total,44 items,n/a,yes,3056.05
+December,2018,2018-12,food,Stock cubes,24 cubes x2,yes,yes,31.65
+December,2018,2018-12,food,Apples,1.5kg,no,no,21.82
+December,2018,2018-12,food,Apricot jam,900g x2,no,yes,49.31
+December,2018,2018-12,food,Bananas,4kg,no,no,44.63
+December,2018,2018-12,food,Beef,2kg,no,yes,142.99
+December,2018,2018-12,food,Beef livers,2kg,no,yes,
+December,2018,2018-12,food,Brown bread,25 loaves,no,no,234.04
+December,2018,2018-12,food,Butternut,10kg,no,no,52.66
+December,2018,2018-12,food,Cabbage,2 heads,no,no,18.98
+December,2018,2018-12,food,Cake Flour,10kg,yes,yes,76.32
+December,2018,2018-12,food,Canned beans,410g x6,no,yes,53.5
+December,2018,2018-12,food,Carrots,5kg,no,no,32.5
+December,2018,2018-12,food,Chicken feet,5kg,no,yes,134.72
+December,2018,2018-12,food,Chicken livers,2kg,no,yes,
+December,2018,2018-12,food,Cooking oil,5L,yes,no,79.66
+December,2018,2018-12,food,Cremora,800g,no,yes,30.66
+December,2018,2018-12,food,Curry powder,200g,yes,yes,25.82
+December,2018,2018-12,food,Eggs,60 eggs,no,no,90.14
+December,2018,2018-12,food,Fish,2kg,no,yes,
+December,2018,2018-12,food,Frozen chicken portions,10kg,yes,yes,324.98
+December,2018,2018-12,food,Full cream milk,6L,no,yes,
+December,2018,2018-12,food,Gizzards,2kg,no,yes,53.98
+December,2018,2018-12,food,Green pepper,2kg,no,yes,
+December,2018,2018-12,food,Inyama yangapakhathi,2kg,no,yes,50.48
+December,2018,2018-12,food,Maas,4L,no,no,38.16
+December,2018,2018-12,food,Maize meal,35kg,yes,no,226.18
+December,2018,2018-12,food,Margarine,1kg x2,no,yes,63.31
+December,2018,2018-12,food,Onions,10kg,yes,no,52.92
+December,2018,2018-12,food,Oranges,7kg,no,yes,
+December,2018,2018-12,food,Peanut butter,400g x2,no,yes,49.15
+December,2018,2018-12,food,Polony,2.5kg,no,yes,57.49
+December,2018,2018-12,food,Potatoes,10kg,yes,no,60.23
+December,2018,2018-12,food,Rice,10kg,yes,no,76.49
+December,2018,2018-12,food,Salt,1kg,yes,yes,14.19
+December,2018,2018-12,food,Samp,5kg,yes,no,28.49
+December,2018,2018-12,food,Soup,400g x2,yes,yes,24.65
+December,2018,2018-12,food,Spinach,8 bunches,no,no,37.29
+December,2018,2018-12,food,Sugar beans,5kg,yes,no,85.16
+December,2018,2018-12,food,Tea,250g,yes,yes,28.82
+December,2018,2018-12,food,Tinned pilchards,400g x6,no,no,88.64
+December,2018,2018-12,food,Tomatoes,6kg,no,no,65.71
+December,2018,2018-12,food,White bread,25 loaves,no,yes,254.88
+December,2018,2018-12,food,White sugar,10kg,yes,yes,138.83
+December,2018,2018-12,food,Wors,2kg,no,yes,83.48
+December,2018,2018-12,food,Total,44 items,n/a,yes,3022.9
+January,2019,2019-01,food,Stock cubes,24 cubes x2,yes,yes,35.98
+January,2019,2019-01,food,Apples,1.5kg,no,no,24.99
+January,2019,2019-01,food,Apricot jam,900g x2,no,yes,49.65
+January,2019,2019-01,food,Bananas,4kg,no,no,47.29
+January,2019,2019-01,food,Beef,2kg,no,yes,146.98
+January,2019,2019-01,food,Beef livers,2kg,no,yes,
+January,2019,2019-01,food,Brown bread,25 loaves,no,no,240.29
+January,2019,2019-01,food,Butternut,10kg,no,no,47.13
+January,2019,2019-01,food,Cabbage,2 heads,no,no,25.98
+January,2019,2019-01,food,Cake Flour,10kg,yes,yes,78.16
+January,2019,2019-01,food,Canned beans,410g x6,no,yes,60.3
+January,2019,2019-01,food,Carrots,5kg,no,no,47.49
+January,2019,2019-01,food,Chicken feet,5kg,no,yes,132.22
+January,2019,2019-01,food,Chicken livers,2kg,no,yes,
+January,2019,2019-01,food,Cooking oil,5L,yes,no,84.49
+January,2019,2019-01,food,Cremora,800g,no,yes,34.32
+January,2019,2019-01,food,Curry powder,200g,yes,yes,27.16
+January,2019,2019-01,food,Eggs,60 eggs,no,no,88.47
+January,2019,2019-01,food,Fish,2kg,no,yes,
+January,2019,2019-01,food,Frozen chicken portions,10kg,yes,yes,314.98
+January,2019,2019-01,food,Full cream milk,6L,no,yes,
+January,2019,2019-01,food,Gizzards,2kg,no,yes,55.48
+January,2019,2019-01,food,Green pepper,2kg,no,yes,
+January,2019,2019-01,food,Inyama yangapakhathi,2kg,no,yes,52.98
+January,2019,2019-01,food,Maas,4L,no,no,39.49
+January,2019,2019-01,food,Maize meal,35kg,yes,no,225.78
+January,2019,2019-01,food,Margarine,1kg x2,no,yes,63.98
+January,2019,2019-01,food,Onions,10kg,yes,no,51.18
+January,2019,2019-01,food,Oranges,7kg,no,yes,
+January,2019,2019-01,food,Peanut butter,400g x2,no,yes,49.31
+January,2019,2019-01,food,Polony,2.5kg,no,yes,56.99
+January,2019,2019-01,food,Potatoes,10kg,yes,no,77.97
+January,2019,2019-01,food,Rice,10kg,yes,no,80.82
+January,2019,2019-01,food,Salt,1kg,yes,yes,14.19
+January,2019,2019-01,food,Samp,5kg,yes,no,30.16
+January,2019,2019-01,food,Soup,400g x2,yes,yes,28.31
+January,2019,2019-01,food,Spinach,8 bunches,no,no,37.29
+January,2019,2019-01,food,Sugar beans,5kg,yes,no,87.33
+January,2019,2019-01,food,Tea,250g,yes,yes,29.32
+January,2019,2019-01,food,Tinned pilchards,400g x6,no,no,93.64
+January,2019,2019-01,food,Tomatoes,6kg,no,no,72.49
+January,2019,2019-01,food,White bread,25 loaves,no,yes,259.04
+January,2019,2019-01,food,White sugar,10kg,yes,yes,145.16
+January,2019,2019-01,food,Wors,2kg,no,yes,81.48
+January,2019,2019-01,food,Total,44 items,n/a,yes,3118.28
+February,2019,2019-02,food,Stock cubes,24 cubes x2,yes,yes,34.31
+February,2019,2019-02,food,Apples,1.5kg,no,no,26.49
+February,2019,2019-02,food,Apricot jam,900g x2,no,yes,49.31
+February,2019,2019-02,food,Bananas,4kg,no,no,37.29
+February,2019,2019-02,food,Beef,2kg,no,yes,147.98
+February,2019,2019-02,food,Beef livers,2kg,no,yes,
+February,2019,2019-02,food,Brown bread,25 loaves,no,no,246.5
+February,2019,2019-02,food,Butternut,10kg,no,no,42.37
+February,2019,2019-02,food,Cabbage,2 heads,no,no,23.98
+February,2019,2019-02,food,Cake Flour,10kg,yes,yes,72.49
+February,2019,2019-02,food,Canned beans,410g x6,no,yes,59.79
+February,2019,2019-02,food,Carrots,5kg,no,no,28.5
+February,2019,2019-02,food,Chicken feet,5kg,no,yes,120.15
+February,2019,2019-02,food,Chicken livers,2kg,no,yes,
+February,2019,2019-02,food,Cooking oil,5L,yes,no,79.16
+February,2019,2019-02,food,Cremora,800g,no,yes,30.99
+February,2019,2019-02,food,Curry powder,200g,yes,yes,26.32
+February,2019,2019-02,food,Eggs,60 eggs,no,no,87.66
+February,2019,2019-02,food,Fish,2kg,no,yes,
+February,2019,2019-02,food,Frozen chicken portions,10kg,yes,yes,325.39
+February,2019,2019-02,food,Full cream milk,6L,no,yes,
+February,2019,2019-02,food,Gizzards,2kg,no,yes,68.39
+February,2019,2019-02,food,Green pepper,2kg,no,yes,
+February,2019,2019-02,food,Inyama yangapakhathi,2kg,no,yes,60.94
+February,2019,2019-02,food,Maas,4L,no,no,40.32
+February,2019,2019-02,food,Maize meal,35kg,yes,no,232.38
+February,2019,2019-02,food,Margarine,1kg x2,no,yes,64.65
+February,2019,2019-02,food,Onions,10kg,yes,no,46.33
+February,2019,2019-02,food,Oranges,7kg,no,yes,
+February,2019,2019-02,food,Peanut butter,400g x2,no,yes,46.65
+February,2019,2019-02,food,Polony,2.5kg,no,yes,56.99
+February,2019,2019-02,food,Potatoes,10kg,yes,no,60.25
+February,2019,2019-02,food,Rice,10kg,yes,no,77.82
+February,2019,2019-02,food,Salt,1kg,yes,yes,14.36
+February,2019,2019-02,food,Samp,5kg,yes,no,29.66
+February,2019,2019-02,food,Soup,400g x2,yes,yes,26.31
+February,2019,2019-02,food,Spinach,8 bunches,no,no,55.92
+February,2019,2019-02,food,Sugar beans,5kg,yes,no,83.32
+February,2019,2019-02,food,Tea,250g,yes,yes,29.82
+February,2019,2019-02,food,Tinned pilchards,400g x6,no,no,95.13
+February,2019,2019-02,food,Tomatoes,6kg,no,no,57.49
+February,2019,2019-02,food,White bread,25 loaves,no,yes,263.17
+February,2019,2019-02,food,White sugar,10kg,yes,yes,143.16
+February,2019,2019-02,food,Wors,2kg,no,yes,81.48
+February,2019,2019-02,food,Total,44 items,n/a,yes,3073.22
+March,2019,2019-03,food,Stock cubes,24 cubes x2,yes,yes,36.31
+March,2019,2019-03,food,Apples,1.5kg,no,no,26.66
+March,2019,2019-03,food,Apricot jam,900g x2,no,yes,50.31
+March,2019,2019-03,food,Bananas,4kg,no,no,44.63
+March,2019,2019-03,food,Beef,2kg,no,yes,142.98
+March,2019,2019-03,food,Beef livers,2kg,no,yes,
+March,2019,2019-03,food,Brown bread,25 loaves,no,no,244.46
+March,2019,2019-03,food,Butternut,10kg,no,no,45.92
+March,2019,2019-03,food,Cabbage,2 heads,no,no,25.58
+March,2019,2019-03,food,Cake Flour,10kg,yes,yes,75.82
+March,2019,2019-03,food,Canned beans,410g x6,no,yes,61.3
+March,2019,2019-03,food,Carrots,5kg,no,no,35.19
+March,2019,2019-03,food,Chicken feet,5kg,no,yes,119
+March,2019,2019-03,food,Chicken livers,2kg,no,yes,
+March,2019,2019-03,food,Cooking oil,5L,yes,no,79.16
+March,2019,2019-03,food,Cremora,800g,no,yes,30.97
+March,2019,2019-03,food,Curry powder,200g,yes,yes,27.99
+March,2019,2019-03,food,Eggs,60 eggs,no,no,86.49
+March,2019,2019-03,food,Fish,2kg,no,yes,
+March,2019,2019-03,food,Frozen chicken portions,10kg,yes,yes,325.49
+March,2019,2019-03,food,Full cream milk,6L,no,yes,
+March,2019,2019-03,food,Gizzards,2kg,no,yes,58
+March,2019,2019-03,food,Green pepper,2kg,no,yes,
+March,2019,2019-03,food,Inyama yangapakhathi,2kg,no,yes,56.74
+March,2019,2019-03,food,Maas,4L,no,no,41.66
+March,2019,2019-03,food,Maize meal,35kg,yes,no,235.78
+March,2019,2019-03,food,Margarine,1kg x2,no,yes,65.31
+March,2019,2019-03,food,Onions,10kg,yes,no,48.95
+March,2019,2019-03,food,Oranges,7kg,no,yes,
+March,2019,2019-03,food,Peanut butter,400g x2,no,yes,53.65
+March,2019,2019-03,food,Polony,2.5kg,no,yes,56.66
+March,2019,2019-03,food,Potatoes,10kg,yes,no,61.42
+March,2019,2019-03,food,Rice,10kg,yes,no,79.49
+March,2019,2019-03,food,Salt,1kg,yes,yes,14.36
+March,2019,2019-03,food,Samp,5kg,yes,no,31.49
+March,2019,2019-03,food,Soup,400g x2,yes,yes,27.31
+March,2019,2019-03,food,Spinach,8 bunches,no,no,55.92
+March,2019,2019-03,food,Sugar beans,5kg,yes,no,85.79
+March,2019,2019-03,food,Tea,250g,yes,yes,30.66
+March,2019,2019-03,food,Tinned pilchards,400g x6,no,no,93.79
+March,2019,2019-03,food,Tomatoes,6kg,no,no,73.33
+March,2019,2019-03,food,White bread,25 loaves,no,yes,263.17
+March,2019,2019-03,food,White sugar,10kg,yes,yes,137.32
+March,2019,2019-03,food,Wors,2kg,no,yes,79.74
+March,2019,2019-03,food,Total,44 items,n/a,yes,3108.77
+April,2019,2019-04,food,Stock cubes,24 cubes x2,yes,yes,36.98
+April,2019,2019-04,food,Apples,1.5kg,no,no,16.16
+April,2019,2019-04,food,Apricot jam,900g x2,no,yes,48.31
+April,2019,2019-04,food,Bananas,4kg,no,no,47.29
+April,2019,2019-04,food,Beef,2kg,no,yes,136.99
+April,2019,2019-04,food,Beef livers,2kg,no,yes,
+April,2019,2019-04,food,Brown bread,25 loaves,no,no,246.58
+April,2019,2019-04,food,Butternut,10kg,no,no,43.9
+April,2019,2019-04,food,Cabbage,2 heads,no,no,27.49
+April,2019,2019-04,food,Cake Flour,10kg,yes,no,73.66
+April,2019,2019-04,food,Canned beans,410g x6,no,yes,61.29
+April,2019,2019-04,food,Carrots,5kg,no,no,29.24
+April,2019,2019-04,food,Chicken feet,5kg,no,yes,119
+April,2019,2019-04,food,Chicken livers,2kg,no,yes,
+April,2019,2019-04,food,Cooking oil,5L,yes,no,78.66
+April,2019,2019-04,food,Cremora,800g,no,yes,31.82
+April,2019,2019-04,food,Curry powder,200g,yes,yes,28.66
+April,2019,2019-04,food,Eggs,60 eggs,no,no,88.32
+April,2019,2019-04,food,Fish,2kg,no,yes,
+April,2019,2019-04,food,Frozen chicken portions,10kg,yes,yes,314.99
+April,2019,2019-04,food,Full cream milk,6L,no,yes,
+April,2019,2019-04,food,Gizzards,2kg,no,yes,52.25
+April,2019,2019-04,food,Green pepper,2kg,no,yes,
+April,2019,2019-04,food,Inyama yangapakhathi,2kg,no,yes,54.24
+April,2019,2019-04,food,Maas,4L,no,no,41.66
+April,2019,2019-04,food,Maize meal,35kg,yes,no,248.48
+April,2019,2019-04,food,Margarine,1kg x2,no,yes,67.58
+April,2019,2019-04,food,Onions,10kg,yes,no,52.47
+April,2019,2019-04,food,Oranges,7kg,no,yes,
+April,2019,2019-04,food,Peanut butter,400g x2,no,yes,54.31
+April,2019,2019-04,food,Polony,2.5kg,no,yes,58.99
+April,2019,2019-04,food,Potatoes,10kg,yes,no,49.97
+April,2019,2019-04,food,Rice,10kg,yes,no,80.49
+April,2019,2019-04,food,Salt,1kg,yes,yes,14.44
+April,2019,2019-04,food,Samp,5kg,yes,no,30.32
+April,2019,2019-04,food,Soup,400g x2,yes,yes,27.48
+April,2019,2019-04,food,Spinach,8 bunches,no,no,55.92
+April,2019,2019-04,food,Sugar beans,5kg,yes,no,85.66
+April,2019,2019-04,food,Tea,250g,yes,yes,30.82
+April,2019,2019-04,food,Tinned pilchards,400g x6,no,no,89.79
+April,2019,2019-04,food,Tomatoes,6kg,no,no,72.66
+April,2019,2019-04,food,White bread,25 loaves,no,yes,266.5
+April,2019,2019-04,food,White sugar,10kg,yes,yes,134.66
+April,2019,2019-04,food,Wors,2kg,no,yes,78.74
+April,2019,2019-04,food,Total,44 items,n/a,yes,3076.76
+May,2019,2019-05,food,Stock cubes,24 cubes x2,yes,yes,36.38
+May,2019,2019-05,food,Apples,1.5kg,no,no,15.39
+May,2019,2019-05,food,Apricot jam,900g x2,no,yes,52.38
+May,2019,2019-05,food,Bananas,4kg,no,no,52.76
+May,2019,2019-05,food,Beef,2kg,no,yes,133.49
+May,2019,2019-05,food,Beef livers,2kg,no,yes,
+May,2019,2019-05,food,Brown bread,25 loaves,no,no,240.95
+May,2019,2019-05,food,Butternut,10kg,no,no,52.9
+May,2019,2019-05,food,Cabbage,2 heads,no,no,25.32
+May,2019,2019-05,food,Cake Flour,10kg,yes,no,69.99
+May,2019,2019-05,food,Canned beans,410g x6,no,yes,63.17
+May,2019,2019-05,food,Carrots,5kg,no,no,31.99
+May,2019,2019-05,food,Chicken feet,5kg,no,yes,118.5
+May,2019,2019-05,food,Chicken livers,2kg,no,yes,
+May,2019,2019-05,food,Cooking oil,5L,yes,no,80.79
+May,2019,2019-05,food,Cremora,800g,no,yes,30.99
+May,2019,2019-05,food,Curry powder,200g,yes,yes,27.59
+May,2019,2019-05,food,Eggs,60 eggs,no,no,85.99
+May,2019,2019-05,food,Fish,2kg,no,yes,
+May,2019,2019-05,food,Frozen chicken portions,10kg,yes,yes,310.49
+May,2019,2019-05,food,Full cream milk,6L,no,yes,
+May,2019,2019-05,food,Gizzards,2kg,no,yes,47.99
+May,2019,2019-05,food,Green pepper,2kg,no,yes,
+May,2019,2019-05,food,Inyama yangapakhathi,2kg,no,yes,48.24
+May,2019,2019-05,food,Maas,4L,no,no,41.79
+May,2019,2019-05,food,Maize meal,35kg,yes,no,227.97
+May,2019,2019-05,food,Margarine,1kg x2,no,yes,65.58
+May,2019,2019-05,food,Onions,10kg,yes,no,51.47
+May,2019,2019-05,food,Oranges,7kg,no,yes,
+May,2019,2019-05,food,Peanut butter,400g x2,no,yes,47.18
+May,2019,2019-05,food,Polony,2.5kg,no,yes,69.33
+May,2019,2019-05,food,Potatoes,10kg,yes,no,62.42
+May,2019,2019-05,food,Rice,10kg,yes,no,79.99
+May,2019,2019-05,food,Salt,1kg,yes,yes,14.79
+May,2019,2019-05,food,Samp,5kg,yes,no,29.39
+May,2019,2019-05,food,Soup,400g x2,yes,yes,27.18
+May,2019,2019-05,food,Spinach,8 bunches,no,no,55.92
+May,2019,2019-05,food,Sugar beans,5kg,yes,no,85.39
+May,2019,2019-05,food,Tea,250g,yes,yes,29.39
+May,2019,2019-05,food,Tinned pilchards,400g x6,no,no,90.17
+May,2019,2019-05,food,Tomatoes,6kg,no,no,65.39
+May,2019,2019-05,food,White bread,25 loaves,no,yes,259.85
+May,2019,2019-05,food,White sugar,10kg,yes,yes,142.39
+May,2019,2019-05,food,Wors,2kg,no,yes,80.24
+May,2019,2019-05,food,Total,44 items,n/a,yes,3051.11
+June,2019,2019-06,food,Stock cubes,24 cubes x2,yes,yes,33.98
+June,2019,2019-06,food,Apples,1.5kg,no,no,15.39
+June,2019,2019-06,food,Apricot jam,900g x2,no,yes,51.18
+June,2019,2019-06,food,Bananas,4kg,no,no,48.76
+June,2019,2019-06,food,Beef,2kg,no,yes,126.98
+June,2019,2019-06,food,Beef livers,2kg,no,yes,
+June,2019,2019-06,food,Brown bread,25 loaves,no,no,240.95
+June,2019,2019-06,food,Butternut,10kg,no,no,50.27
+June,2019,2019-06,food,Cabbage,2 heads,no,no,24.99
+June,2019,2019-06,food,Cake Flour,10kg,yes,no,67.59
+June,2019,2019-06,food,Canned beans,410g x6,no,yes,63.17
+June,2019,2019-06,food,Carrots,5kg,no,no,22.49
+June,2019,2019-06,food,Chicken feet,5kg,no,yes,127.24
+June,2019,2019-06,food,Chicken livers,2kg,no,yes,
+June,2019,2019-06,food,Cooking oil,5L,yes,no,79.19
+June,2019,2019-06,food,Cremora,800g,no,yes,31.19
+June,2019,2019-06,food,Curry powder,200g,yes,yes,28.79
+June,2019,2019-06,food,Eggs,60 eggs,no,no,86.99
+June,2019,2019-06,food,Fish,2kg,no,yes,
+June,2019,2019-06,food,Frozen chicken portions,10kg,yes,yes,329.99
+June,2019,2019-06,food,Full cream milk,6L,no,yes,
+June,2019,2019-06,food,Gizzards,2kg,no,yes,62.48
+June,2019,2019-06,food,Green pepper,2kg,no,yes,
+June,2019,2019-06,food,Inyama yangapakhathi,2kg,no,yes,61.98
+June,2019,2019-06,food,Maas,4L,no,no,40.39
+June,2019,2019-06,food,Maize meal,35kg,yes,no,223.52
+June,2019,2019-06,food,Margarine,1kg x2,no,yes,64.58
+June,2019,2019-06,food,Onions,10kg,yes,no,53.27
+June,2019,2019-06,food,Oranges,7kg,no,yes,
+June,2019,2019-06,food,Peanut butter,400g x2,no,yes,47.98
+June,2019,2019-06,food,Polony,2.5kg,no,yes,63.89
+June,2019,2019-06,food,Potatoes,10kg,yes,no,50.56
+June,2019,2019-06,food,Rice,10kg,yes,no,78.59
+June,2019,2019-06,food,Salt,1kg,yes,yes,14.79
+June,2019,2019-06,food,Samp,5kg,yes,no,31.39
+June,2019,2019-06,food,Soup,400g x2,yes,yes,27.18
+June,2019,2019-06,food,Spinach,8 bunches,no,no,59.92
+June,2019,2019-06,food,Sugar beans,5kg,yes,no,84.79
+June,2019,2019-06,food,Tea,250g,yes,yes,27.59
+June,2019,2019-06,food,Tinned pilchards,400g x6,no,no,90.17
+June,2019,2019-06,food,Tomatoes,6kg,no,no,68.79
+June,2019,2019-06,food,White bread,25 loaves,no,yes,259.85
+June,2019,2019-06,food,White sugar,10kg,yes,yes,142.19
+June,2019,2019-06,food,Wors,2kg,no,yes,82.24
+June,2019,2019-06,food,Total,44 items,n/a,yes,3065.28
+July,2019,2019-07,food,Stock cubes,24 cubes x2,yes,yes,35.18
+July,2019,2019-07,food,Apples,1.5kg,no,no,15.19
+July,2019,2019-07,food,Apricot jam,900g x2,no,yes,52.78
+July,2019,2019-07,food,Bananas,4kg,no,no,50.36
+July,2019,2019-07,food,Beef,2kg,no,yes,127.98
+July,2019,2019-07,food,Beef livers,2kg,no,yes,
+July,2019,2019-07,food,Brown bread,25 loaves,no,no,238.4
+July,2019,2019-07,food,Butternut,10kg,no,no,55.98
+July,2019,2019-07,food,Cabbage,2 heads,no,no,21.98
+July,2019,2019-07,food,Cake Flour,10kg,yes,no,66.79
+July,2019,2019-07,food,Canned beans,410g x6,no,yes,62.36
+July,2019,2019-07,food,Carrots,5kg,no,no,25.49
+July,2019,2019-07,food,Chicken feet,5kg,no,yes,124.74
+July,2019,2019-07,food,Chicken livers,2kg,no,yes,
+July,2019,2019-07,food,Cooking oil,5L,yes,no,79.79
+July,2019,2019-07,food,Cremora,800g,no,yes,31.79
+July,2019,2019-07,food,Curry powder,200g,yes,yes,26.79
+July,2019,2019-07,food,Eggs,60 eggs,no,no,83.79
+July,2019,2019-07,food,Fish,2kg,no,yes,
+July,2019,2019-07,food,Frozen chicken portions,10kg,yes,yes,329.99
+July,2019,2019-07,food,Full cream milk,6L,no,yes,
+July,2019,2019-07,food,Gizzards,2kg,no,yes,61.48
+July,2019,2019-07,food,Green pepper,2kg,no,yes,
+July,2019,2019-07,food,Inyama yangapakhathi,2kg,no,yes,66.48
+July,2019,2019-07,food,Maas,4L,no,no,40.99
+July,2019,2019-07,food,Maize meal,35kg,yes,no,216.9
+July,2019,2019-07,food,Margarine,1kg x2,no,yes,65.58
+July,2019,2019-07,food,Onions,10kg,yes,no,54.5
+July,2019,2019-07,food,Oranges,7kg,no,yes,
+July,2019,2019-07,food,Peanut butter,400g x2,no,yes,48.38
+July,2019,2019-07,food,Polony,2.5kg,no,yes,64.49
+July,2019,2019-07,food,Potatoes,10kg,yes,no,48.71
+July,2019,2019-07,food,Rice,10kg,yes,no,78.19
+July,2019,2019-07,food,Salt,1kg,yes,yes,14.99
+July,2019,2019-07,food,Samp,5kg,yes,no,32.79
+July,2019,2019-07,food,Soup,400g x2,yes,yes,25.58
+July,2019,2019-07,food,Spinach,8 bunches,no,no,61.92
+July,2019,2019-07,food,Sugar beans,5kg,yes,no,86.19
+July,2019,2019-07,food,Tea,250g,yes,yes,23.99
+July,2019,2019-07,food,Tinned pilchards,400g x6,no,no,90.96
+July,2019,2019-07,food,Tomatoes,6kg,no,no,64.99
+July,2019,2019-07,food,White bread,25 loaves,no,yes,259.8
+July,2019,2019-07,food,White sugar,10kg,yes,yes,139.39
+July,2019,2019-07,food,Wors,2kg,no,yes,82.24
+July,2019,2019-07,food,Total,44 items,n/a,yes,3057.93
+August,2019,2019-08,food,Stock cubes,24 cubes x2,yes,yes,37.18
+August,2019,2019-08,food,Apples,1.5kg,no,no,16.39
+August,2019,2019-08,food,Apricot jam,900g x2,no,yes,52.78
+August,2019,2019-08,food,Bananas,4kg,no,no,44.76
+August,2019,2019-08,food,Beef,2kg,no,yes,140.99
+August,2019,2019-08,food,Beef livers,2kg,no,yes,
+August,2019,2019-08,food,Brown bread,25 loaves,no,no,238.4
+August,2019,2019-08,food,Butternut,10kg,no,no,54.3
+August,2019,2019-08,food,Cabbage,2 heads,no,no,21.58
+August,2019,2019-08,food,Cake Flour,10kg,yes,no,69.99
+August,2019,2019-08,food,Canned beans,410g x6,no,yes,61.75
+August,2019,2019-08,food,Carrots,5kg,no,no,17.59
+August,2019,2019-08,food,Chicken feet,5kg,no,yes,172.34
+August,2019,2019-08,food,Chicken livers,2kg,no,yes,
+August,2019,2019-08,food,Cooking oil,5L,yes,no,83.99
+August,2019,2019-08,food,Cremora,800g,no,yes,32.59
+August,2019,2019-08,food,Curry powder,200g,yes,yes,27.59
+August,2019,2019-08,food,Eggs,60 eggs,no,no,86.19
+August,2019,2019-08,food,Fish,2kg,no,yes,
+August,2019,2019-08,food,Frozen chicken portions,10kg,yes,yes,307.99
+August,2019,2019-08,food,Full cream milk,6L,no,yes,
+August,2019,2019-08,food,Gizzards,2kg,no,yes,67.48
+August,2019,2019-08,food,Green pepper,2kg,no,yes,
+August,2019,2019-08,food,Inyama yangapakhathi,2kg,no,yes,58.48
+August,2019,2019-08,food,Maas,4L,no,no,40.79
+August,2019,2019-08,food,Maize meal,35kg,yes,no,212.66
+August,2019,2019-08,food,Margarine,1kg x2,no,yes,67.58
+August,2019,2019-08,food,Onions,10kg,yes,no,52.99
+August,2019,2019-08,food,Oranges,7kg,no,yes,
+August,2019,2019-08,food,Peanut butter,400g x2,no,yes,45.98
+August,2019,2019-08,food,Polony,2.5kg,no,yes,64.49
+August,2019,2019-08,food,Potatoes,10kg,yes,no,46.59
+August,2019,2019-08,food,Rice,10kg,yes,no,81.39
+August,2019,2019-08,food,Salt,1kg,yes,yes,15.39
+August,2019,2019-08,food,Samp,5kg,yes,no,35.39
+August,2019,2019-08,food,Soup,400g x2,yes,yes,26.78
+August,2019,2019-08,food,Spinach,8 bunches,no,no,40
+August,2019,2019-08,food,Sugar beans,5kg,yes,no,86.19
+August,2019,2019-08,food,Tea,250g,yes,yes,23.39
+August,2019,2019-08,food,Tinned pilchards,400g x6,no,no,91.75
+August,2019,2019-08,food,Tomatoes,6kg,no,no,46.23
+August,2019,2019-08,food,White bread,25 loaves,no,yes,259.8
+August,2019,2019-08,food,White sugar,10kg,yes,yes,137.59
+August,2019,2019-08,food,Wors,2kg,no,yes,100.19
+August,2019,2019-08,food,Total,44 items,n/a,yes,3067.52
+September,2019,2019-09,food,Stock cubes,24 cubes x2,yes,yes,35.98
+September,2019,2019-09,food,Apples,1.5kg,no,no,17.39
+September,2019,2019-09,food,Apricot jam,900g x2,no,yes,50.38
+September,2019,2019-09,food,Bananas,4kg,no,no,36.76
+September,2019,2019-09,food,Beef,2kg,no,yes,143.44
+September,2019,2019-09,food,Beef livers,2kg,no,yes,
+September,2019,2019-09,food,Brown bread,25 loaves,no,no,235.85
+September,2019,2019-09,food,Butternut,10kg,no,no,51.98
+September,2019,2019-09,food,Cabbage,2 heads,no,no,20.38
+September,2019,2019-09,food,Cake Flour,10kg,yes,no,70.19
+September,2019,2019-09,food,Canned beans,410g x6,no,yes,61.75
+September,2019,2019-09,food,Carrots,5kg,no,no,18.74
+September,2019,2019-09,food,Chicken feet,5kg,no,yes,157.35
+September,2019,2019-09,food,Chicken livers,2kg,no,yes,
+September,2019,2019-09,food,Cooking oil,5L,yes,no,88.99
+September,2019,2019-09,food,Cremora,800g,no,yes,31.39
+September,2019,2019-09,food,Curry powder,200g,yes,yes,28.19
+September,2019,2019-09,food,Eggs,60 eggs,no,no,88.59
+September,2019,2019-09,food,Fish,2kg,no,yes,
+September,2019,2019-09,food,Frozen chicken portions,10kg,yes,yes,327.48
+September,2019,2019-09,food,Full cream milk,6L,no,yes,
+September,2019,2019-09,food,Gizzards,2kg,no,yes,61.44
+September,2019,2019-09,food,Green pepper,2kg,no,yes,
+September,2019,2019-09,food,Inyama yangapakhathi,2kg,no,yes,69.94
+September,2019,2019-09,food,Maas,4L,no,no,41.19
+September,2019,2019-09,food,Maize meal,30kg,yes,no,221.97
+September,2019,2019-09,food,Margarine,1kg x2,no,yes,66.78
+September,2019,2019-09,food,Onions,10kg,yes,no,52.55
+September,2019,2019-09,food,Oranges,7kg,no,yes,
+September,2019,2019-09,food,Peanut butter,400g x2,no,yes,47.58
+September,2019,2019-09,food,Polony,2.5kg,no,yes,64.49
+September,2019,2019-09,food,Potatoes,10kg,yes,no,54.42
+September,2019,2019-09,food,Rice,10kg,yes,no,81.59
+September,2019,2019-09,food,Salt,1kg,yes,yes,15.39
+September,2019,2019-09,food,Samp,5kg,yes,no,34.59
+September,2019,2019-09,food,Soup,400g x2,yes,yes,27.98
+September,2019,2019-09,food,Spinach,8 bunches,no,no,40
+September,2019,2019-09,food,Sugar beans,5kg,yes,no,89.99
+September,2019,2019-09,food,Tea,250g,yes,yes,22.99
+September,2019,2019-09,food,Tinned pilchards,400g x6,no,no,98.95
+September,2019,2019-09,food,Tomatoes,6kg,no,no,69.97
+September,2019,2019-09,food,White bread,25 loaves,no,yes,259.8
+September,2019,2019-09,food,White sugar,10kg,yes,yes,137.59
+September,2019,2019-09,food,Wors,2kg,no,yes,103.19
+September,2019,2019-09,food,Total,44 items,n/a,yes,3127.21
+October,2019,2019-10,food,Stock cubes,24 cubes x2,yes,yes,35.58
+October,2019,2019-10,food,Apples,1.5kg,no,no,20.59
+October,2019,2019-10,food,Apricot jam,900g x2,no,yes,52.38
+October,2019,2019-10,food,Bananas,4kg,no,no,39.16
+October,2019,2019-10,food,Beef,2kg,no,yes,140.44
+October,2019,2019-10,food,Beef livers,2kg,no,yes,
+October,2019,2019-10,food,Brown bread,25 loaves,no,no,235.85
+October,2019,2019-10,food,Butternut,10kg,no,no,77.84
+October,2019,2019-10,food,Cabbage,2 heads,no,no,22.38
+October,2019,2019-10,food,Cake Flour,10kg,yes,no,74.79
+October,2019,2019-10,food,Canned beans,410g x6,no,yes,63.36
+October,2019,2019-10,food,Carrots,5kg,no,no,20.99
+October,2019,2019-10,food,Chicken feet,5kg,no,yes,147.35
+October,2019,2019-10,food,Chicken livers,2kg,no,yes,
+October,2019,2019-10,food,Cooking oil,5L,yes,no,87.99
+October,2019,2019-10,food,Cremora,800g,no,yes,30.99
+October,2019,2019-10,food,Curry powder,200g,yes,yes,27.19
+October,2019,2019-10,food,Eggs,60 eggs,no,no,87.99
+October,2019,2019-10,food,Fish,2kg,no,yes,
+October,2019,2019-10,food,Frozen chicken portions,10kg,yes,yes,329.98
+October,2019,2019-10,food,Full cream milk,6L,no,yes,
+October,2019,2019-10,food,Gizzards,2kg,no,yes,64.94
+October,2019,2019-10,food,Green pepper,2kg,no,yes,
+October,2019,2019-10,food,Inyama yangapakhathi,2kg,no,yes,66.44
+October,2019,2019-10,food,Maas,4L,no,no,41.39
+October,2019,2019-10,food,Maize meal,30kg,yes,no,219.22
+October,2019,2019-10,food,Margarine,1kg x2,no,yes,66.38
+October,2019,2019-10,food,Onions,10kg,yes,no,57.13
+October,2019,2019-10,food,Oranges,7kg,no,yes,
+October,2019,2019-10,food,Peanut butter,400g x2,no,yes,54.78
+October,2019,2019-10,food,Polony,2.5kg,no,yes,60.49
+October,2019,2019-10,food,Potatoes,10kg,yes,no,72.7
+October,2019,2019-10,food,Rice,10kg,yes,no,82.39
+October,2019,2019-10,food,Salt,1kg,yes,yes,15.39
+October,2019,2019-10,food,Samp,5kg,yes,no,35.39
+October,2019,2019-10,food,Soup,400g x2,yes,yes,25.18
+October,2019,2019-10,food,Spinach,8 bunches,no,no,44.77
+October,2019,2019-10,food,Sugar beans,5kg,yes,no,91.99
+October,2019,2019-10,food,Tea,250g,yes,yes,21.39
+October,2019,2019-10,food,Tinned pilchards,400g x6,no,no,97.16
+October,2019,2019-10,food,Tomatoes,6kg,no,no,69.24
+October,2019,2019-10,food,White bread,25 loaves,no,yes,257.3
+October,2019,2019-10,food,White sugar,10kg,yes,yes,140.19
+October,2019,2019-10,food,Wors,2kg,no,yes,105.94
+October,2019,2019-10,food,Total,44 items,n/a,yes,3184.63
+November,2019,2019-11,food,Stock cubes,24 cubes x2,yes,yes,35.58
+November,2019,2019-11,food,Apples,1.5kg,no,no,18.59
+November,2019,2019-11,food,Apricot jam,900g x2,no,yes,53.58
+November,2019,2019-11,food,Bananas,4kg,no,no,36.76
+November,2019,2019-11,food,Beef,2kg,no,yes,139.44
+November,2019,2019-11,food,Beef livers,2kg,no,yes,
+November,2019,2019-11,food,Brown bread,25 loaves,no,no,229.8
+November,2019,2019-11,food,Butternut,10kg,no,no,47.27
+November,2019,2019-11,food,Cabbage,2 heads,no,no,23.98
+November,2019,2019-11,food,Cake Flour,10kg,yes,no,75.19
+November,2019,2019-11,food,Canned beans,410g x6,no,yes,65.35
+November,2019,2019-11,food,Carrots,5kg,no,no,18.24
+November,2019,2019-11,food,Chicken feet,5kg,no,yes,147.35
+November,2019,2019-11,food,Chicken livers,2kg,no,yes,
+November,2019,2019-11,food,Cooking oil,5L,yes,no,91.19
+November,2019,2019-11,food,Cremora,800g,no,yes,30.59
+November,2019,2019-11,food,Curry powder,200g,yes,yes,28.99
+November,2019,2019-11,food,Eggs,60 eggs,no,no,87.99
+November,2019,2019-11,food,Fish,2kg,no,yes,
+November,2019,2019-11,food,Frozen chicken portions,10kg,yes,yes,332.94
+November,2019,2019-11,food,Full cream milk,6L,no,yes,
+November,2019,2019-11,food,Gizzards,2kg,no,yes,60.48
+November,2019,2019-11,food,Green pepper,2kg,no,yes,
+November,2019,2019-11,food,Inyama yangapakhathi,2kg,no,yes,62.44
+November,2019,2019-11,food,Maas,4L,no,no,39.39
+November,2019,2019-11,food,Maize meal,30kg,yes,no,221.22
+November,2019,2019-11,food,Margarine,1kg x2,no,yes,69.98
+November,2019,2019-11,food,Onions,10kg,yes,no,56.56
+November,2019,2019-11,food,Oranges,7kg,no,yes,
+November,2019,2019-11,food,Peanut butter,400g x2,no,yes,55.58
+November,2019,2019-11,food,Polony,2.5kg,no,yes,60.49
+November,2019,2019-11,food,Potatoes,10kg,yes,no,49.79
+November,2019,2019-11,food,Rice,10kg,yes,no,84.79
+November,2019,2019-11,food,Salt,1kg,yes,yes,15.39
+November,2019,2019-11,food,Samp,5kg,yes,no,35.59
+November,2019,2019-11,food,Soup,400g x2,yes,yes,24.78
+November,2019,2019-11,food,Spinach,8 bunches,no,no,37.3
+November,2019,2019-11,food,Sugar beans,5kg,yes,no,91.39
+November,2019,2019-11,food,Tea,250g,yes,yes,22.99
+November,2019,2019-11,food,Tinned pilchards,400g x6,no,no,100.15
+November,2019,2019-11,food,Tomatoes,6kg,no,no,53.87
+November,2019,2019-11,food,White bread,25 loaves,no,yes,252.3
+November,2019,2019-11,food,White sugar,10kg,yes,yes,141.19
+November,2019,2019-11,food,Wors,2kg,no,yes,107.94
+November,2019,2019-11,food,Total,44 items,n/a,yes,3106.42
+December,2019,2019-12,food,Stock cubes,24 cubes x2,yes,yes,31.18
+December,2019,2019-12,food,Apples,1.5kg,no,no,19.99
+December,2019,2019-12,food,Apricot jam,900g x2,no,yes,46.38
+December,2019,2019-12,food,Bananas,4kg,no,no,34.96
+December,2019,2019-12,food,Beef,2kg,no,yes,150.48
+December,2019,2019-12,food,Beef livers,2kg,no,yes,
+December,2019,2019-12,food,Brown bread,25 loaves,no,no,232.3
+December,2019,2019-12,food,Butternut,10kg,no,no,52.84
+December,2019,2019-12,food,Cabbage,2 heads,no,no,24.98
+December,2019,2019-12,food,Cake Flour,10kg,yes,no,72.39
+December,2019,2019-12,food,Canned beans,410g x6,no,yes,61.75
+December,2019,2019-12,food,Carrots,5kg,no,no,24.74
+December,2019,2019-12,food,Chicken feet,5kg,no,yes,168.48
+December,2019,2019-12,food,Chicken livers,2kg,no,yes,
+December,2019,2019-12,food,Cooking oil,5L,yes,no,88.79
+December,2019,2019-12,food,Cremora,800g,no,yes,30.99
+December,2019,2019-12,food,Curry powder,200g,yes,yes,26.79
+December,2019,2019-12,food,Eggs,60 eggs,no,no,87.59
+December,2019,2019-12,food,Fish,2kg,no,yes,
+December,2019,2019-12,food,Frozen chicken portions,10kg,yes,yes,336.94
+December,2019,2019-12,food,Full cream milk,6L,no,yes,
+December,2019,2019-12,food,Gizzards,2kg,no,yes,68.39
+December,2019,2019-12,food,Green pepper,2kg,no,yes,
+December,2019,2019-12,food,Inyama yangapakhathi,2kg,no,yes,69.89
+December,2019,2019-12,food,Maas,4L,no,no,38.99
+December,2019,2019-12,food,Maize meal,30kg,yes,no,223.23
+December,2019,2019-12,food,Margarine,1kg x2,no,yes,68.38
+December,2019,2019-12,food,Onions,10kg,yes,no,53.41
+December,2019,2019-12,food,Oranges,7kg,no,yes,
+December,2019,2019-12,food,Peanut butter,400g x2,no,yes,54.38
+December,2019,2019-12,food,Polony,2.5kg,no,yes,62.29
+December,2019,2019-12,food,Potatoes,10kg,yes,no,60.74
+December,2019,2019-12,food,Rice,10kg,yes,no,83.79
+December,2019,2019-12,food,Salt,1kg,yes,yes,15.39
+December,2019,2019-12,food,Samp,5kg,yes,no,34.59
+December,2019,2019-12,food,Soup,400g x2,yes,yes,25.18
+December,2019,2019-12,food,Spinach,8 bunches,no,no,42.61
+December,2019,2019-12,food,Sugar beans,5kg,yes,no,87.59
+December,2019,2019-12,food,Tea,250g,yes,yes,20.79
+December,2019,2019-12,food,Tinned pilchards,400g x6,no,no,96.55
+December,2019,2019-12,food,Tomatoes,6kg,no,no,84.99
+December,2019,2019-12,food,White bread,25 loaves,no,yes,254.8
+December,2019,2019-12,food,White sugar,10kg,yes,yes,142.39
+December,2019,2019-12,food,Wors,2kg,no,yes,119.94
+December,2019,2019-12,food,Total,44 items,n/a,yes,3199.86
+January,2020,2020-01,food,Stock cubes,24 cubes x2,yes,yes,36.38
+January,2020,2020-01,food,Apples,1.5kg,no,no,23.99
+January,2020,2020-01,food,Apricot jam,900g x2,no,yes,49.18
+January,2020,2020-01,food,Bananas,4kg,no,no,47.96
+January,2020,2020-01,food,Beef,2kg,no,yes,161.98
+January,2020,2020-01,food,Beef livers,2kg,no,yes,
+January,2020,2020-01,food,Brown bread,25 loaves,no,no,239.8
+January,2020,2020-01,food,Butternut,10kg,no,no,51.13
+January,2020,2020-01,food,Cabbage,2 heads,no,no,31.98
+January,2020,2020-01,food,Cake Flour,10kg,yes,no,75.19
+January,2020,2020-01,food,Canned beans,410g x6,no,yes,65.35
+January,2020,2020-01,food,Carrots,5kg,no,no,35.59
+January,2020,2020-01,food,Chicken feet,5kg,no,yes,167.34
+January,2020,2020-01,food,Chicken livers,2kg,no,yes,
+January,2020,2020-01,food,Cooking oil,5L,yes,no,93.79
+January,2020,2020-01,food,Cremora,800g,no,yes,32.59
+January,2020,2020-01,food,Curry powder,200g,yes,yes,28.19
+January,2020,2020-01,food,Eggs,60 eggs,no,no,89.79
+January,2020,2020-01,food,Fish,2kg,no,yes,
+January,2020,2020-01,food,Frozen chicken portions,10kg,yes,yes,341.98
+January,2020,2020-01,food,Full cream milk,6L,no,yes,
+January,2020,2020-01,food,Gizzards,2kg,no,yes,68.98
+January,2020,2020-01,food,Green pepper,2kg,no,yes,
+January,2020,2020-01,food,Inyama yangapakhathi,2kg,no,yes,69.48
+January,2020,2020-01,food,Maas,4L,no,no,40.39
+January,2020,2020-01,food,Maize meal,30kg,yes,no,226.23
+January,2020,2020-01,food,Margarine,1kg x2,no,yes,69.98
+January,2020,2020-01,food,Onions,10kg,yes,no,55.3
+January,2020,2020-01,food,Oranges,7kg,no,yes,
+January,2020,2020-01,food,Peanut butter,400g x2,no,yes,53.58
+January,2020,2020-01,food,Polony,2.5kg,no,yes,62.49
+January,2020,2020-01,food,Potatoes,10kg,yes,no,69.98
+January,2020,2020-01,food,Rice,10kg,yes,no,84.59
+January,2020,2020-01,food,Salt,1kg,yes,yes,15.39
+January,2020,2020-01,food,Samp,5kg,yes,no,35.39
+January,2020,2020-01,food,Soup,400g x2,yes,yes,29.58
+January,2020,2020-01,food,Spinach,8 bunches,no,no,42.61
+January,2020,2020-01,food,Sugar beans,5kg,yes,no,88.39
+January,2020,2020-01,food,Tea,250g,yes,yes,21.19
+January,2020,2020-01,food,Tinned pilchards,400g x6,no,no,98.16
+January,2020,2020-01,food,Tomatoes,6kg,no,no,96.49
+January,2020,2020-01,food,White bread,25 loaves,no,yes,259.8
+January,2020,2020-01,food,White sugar,10kg,yes,yes,148.79
+January,2020,2020-01,food,Wors,2kg,no,yes,130.98
+January,2020,2020-01,food,Total,44 items,n/a,yes,3339.98
+February,2020,2020-02,food,Stock cubes,24 cubes x2,yes,yes,33.18
+February,2020,2020-02,food,Apples,1.5kg,no,no,25.74
+February,2020,2020-02,food,Apricot jam,900g x2,no,yes,53.98
+February,2020,2020-02,food,Bananas,4kg,no,no,39.96
+February,2020,2020-02,food,Beef,2kg,no,yes,146.44
+February,2020,2020-02,food,Beef livers,2kg,no,yes,
+February,2020,2020-02,food,Brown bread,25 loaves,no,no,223.75
+February,2020,2020-02,food,Butternut,10kg,no,no,48.27
+February,2020,2020-02,food,Cabbage,2 heads,no,no,24.66
+February,2020,2020-02,food,Cake Flour,10kg,yes,no,72.39
+February,2020,2020-02,food,Canned beans,410g x6,no,yes,63.17
+February,2020,2020-02,food,Carrots,5kg,no,no,21.32
+February,2020,2020-02,food,Chicken feet,5kg,no,yes,168.48
+February,2020,2020-02,food,Chicken livers,2kg,no,yes,
+February,2020,2020-02,food,Cooking oil,5L,yes,no,92.79
+February,2020,2020-02,food,Cremora,800g,no,yes,28.99
+February,2020,2020-02,food,Curry powder,200g,yes,yes,28.79
+February,2020,2020-02,food,Eggs,60 eggs,no,no,87.59
+February,2020,2020-02,food,Fish,2kg,no,yes,
+February,2020,2020-02,food,Frozen chicken portions,10kg,yes,yes,336.94
+February,2020,2020-02,food,Full cream milk,6L,no,yes,
+February,2020,2020-02,food,Gizzards,2kg,no,yes,70.44
+February,2020,2020-02,food,Green pepper,2kg,no,yes,
+February,2020,2020-02,food,Inyama yangapakhathi,2kg,no,yes,63.85
+February,2020,2020-02,food,Maas,4L,no,no,40.19
+February,2020,2020-02,food,Maize meal,30kg,yes,no,226.48
+February,2020,2020-02,food,Margarine,1kg x2,no,yes,63.58
+February,2020,2020-02,food,Onions,10kg,yes,no,61.13
+February,2020,2020-02,food,Oranges,7kg,no,yes,
+February,2020,2020-02,food,Peanut butter,400g x2,no,yes,53.98
+February,2020,2020-02,food,Polony,2.5kg,no,yes,60.49
+February,2020,2020-02,food,Potatoes,10kg,yes,no,61.99
+February,2020,2020-02,food,Rice,10kg,yes,no,83.59
+February,2020,2020-02,food,Salt,1kg,yes,yes,15.39
+February,2020,2020-02,food,Samp,5kg,yes,no,37.19
+February,2020,2020-02,food,Soup,400g x2,yes,yes,26.78
+February,2020,2020-02,food,Spinach,8 bunches,no,no,63.92
+February,2020,2020-02,food,Sugar beans,5kg,yes,no,92.39
+February,2020,2020-02,food,Tea,250g,yes,yes,19.99
+February,2020,2020-02,food,Tinned pilchards,400g x6,no,no,93.57
+February,2020,2020-02,food,Tomatoes,6kg,no,no,73.18
+February,2020,2020-02,food,White bread,25 loaves,no,yes,248.75
+February,2020,2020-02,food,White sugar,10kg,yes,yes,145.79
+February,2020,2020-02,food,Wors,2kg,no,yes,124.39
+February,2020,2020-02,food,Total,44 items,n/a,yes,3223.49
+March,2020,2020-03,food,Stock cubes,24 cubes x2,yes,yes,35.58
+March,2020,2020-03,food,Apples,1.5kg,no,no,24.65
+March,2020,2020-03,food,Apricot jam,900g x2,no,yes,51.98
+March,2020,2020-03,food,Bananas,4kg,no,no,47.16
+March,2020,2020-03,food,Beef,2kg,no,yes,151.44
+March,2020,2020-03,food,Beef livers,2kg,no,yes,
+March,2020,2020-03,food,Brown bread,25 loaves,no,no,224.35
+March,2020,2020-03,food,Butternut,10kg,no,no,49.13
+March,2020,2020-03,food,Cabbage,2 heads,no,no,26.98
+March,2020,2020-03,food,Cake Flour,10kg,yes,no,73.79
+March,2020,2020-03,food,Canned beans,410g x6,no,yes,65.16
+March,2020,2020-03,food,Carrots,5kg,no,no,23.79
+March,2020,2020-03,food,Chicken feet,5kg,no,yes,173.59
+March,2020,2020-03,food,Chicken livers,2kg,no,yes,
+March,2020,2020-03,food,Cooking oil,5L,yes,no,91.19
+March,2020,2020-03,food,Cremora,800g,no,yes,32.19
+March,2020,2020-03,food,Curry powder,200g,yes,yes,27.59
+March,2020,2020-03,food,Eggs,60 eggs,no,no,86.99
+March,2020,2020-03,food,Fish,2kg,no,yes,
+March,2020,2020-03,food,Frozen chicken portions,10kg,yes,yes,339.44
+March,2020,2020-03,food,Full cream milk,6L,no,yes,
+March,2020,2020-03,food,Gizzards,2kg,no,yes,59.44
+March,2020,2020-03,food,Green pepper,2kg,no,yes,
+March,2020,2020-03,food,Inyama yangapakhathi,2kg,no,yes,64.94
+March,2020,2020-03,food,Maas,4L,no,no,39.79
+March,2020,2020-03,food,Maize meal,30kg,yes,no,246.47
+March,2020,2020-03,food,Margarine,1kg x2,no,yes,63.98
+March,2020,2020-03,food,Onions,10kg,yes,no,55.24
+March,2020,2020-03,food,Oranges,7kg,no,yes,
+March,2020,2020-03,food,Peanut butter,400g x2,no,yes,57.18
+March,2020,2020-03,food,Polony,2.5kg,no,yes,60.49
+March,2020,2020-03,food,Potatoes,10kg,yes,no,48.45
+March,2020,2020-03,food,Rice,10kg,yes,no,87.19
+March,2020,2020-03,food,Salt,1kg,yes,yes,15.39
+March,2020,2020-03,food,Samp,5kg,yes,no,35.79
+March,2020,2020-03,food,Soup,400g x2,yes,yes,26.38
+March,2020,2020-03,food,Spinach,8 bunches,no,no,63.92
+March,2020,2020-03,food,Sugar beans,5kg,yes,no,84.39
+March,2020,2020-03,food,Tea,250g,yes,yes,20.79
+March,2020,2020-03,food,Tinned pilchards,400g x6,no,no,101.56
+March,2020,2020-03,food,Tomatoes,6kg,no,no,59.15
+March,2020,2020-03,food,White bread,25 loaves,no,yes,248.35
+March,2020,2020-03,food,White sugar,10kg,yes,yes,145.19
+March,2020,2020-03,food,Wors,2kg,no,yes,111.94
+March,2020,2020-03,food,Total,44 items,n/a,yes,3221
+April,2020,2020-04,food,Stock cubes,24 cubes x2,yes,yes,35.18
+April,2020,2020-04,food,Apples,1.5kg,no,no,19.65
+April,2020,2020-04,food,Apricot jam,900g x2,no,yes,57.98
+April,2020,2020-04,food,Bananas,4kg,no,no,47.16
+April,2020,2020-04,food,Beef,2kg,no,yes,143.94
+April,2020,2020-04,food,Beef livers,2kg,no,yes,
+April,2020,2020-04,food,Brown bread,25 loaves,no,no,256.45
+April,2020,2020-04,food,Butternut,10kg,no,no,65.99
+April,2020,2020-04,food,Cabbage,2 heads,no,no,29.98
+April,2020,2020-04,food,Cake Flour,10kg,yes,no,73.79
+April,2020,2020-04,food,Canned beans,410g x6,no,yes,65.35
+April,2020,2020-04,food,Carrots,5kg,no,no,35.59
+April,2020,2020-04,food,Chicken feet,5kg,no,yes,159.74
+April,2020,2020-04,food,Chicken livers,2kg,no,yes,
+April,2020,2020-04,food,Cooking oil,5L,yes,no,94.57
+April,2020,2020-04,food,Cremora,800g,no,yes,33.79
+April,2020,2020-04,food,Curry powder,200g,yes,yes,28.79
+April,2020,2020-04,food,Eggs,60 eggs,no,no,82.39
+April,2020,2020-04,food,Fish,2kg,no,yes,
+April,2020,2020-04,food,Frozen chicken portions,10kg,yes,yes,330.39
+April,2020,2020-04,food,Full cream milk,6L,no,yes,
+April,2020,2020-04,food,Gizzards,2kg,no,yes,64.65
+April,2020,2020-04,food,Green pepper,2kg,no,yes,
+April,2020,2020-04,food,Inyama yangapakhathi,2kg,no,yes,66.39
+April,2020,2020-04,food,Maas,4L,no,no,44.19
+April,2020,2020-04,food,Maize meal,30kg,yes,no,248.31
+April,2020,2020-04,food,Margarine,1kg x2,no,yes,69.18
+April,2020,2020-04,food,Onions,10kg,yes,no,78.84
+April,2020,2020-04,food,Oranges,7kg,no,yes,
+April,2020,2020-04,food,Peanut butter,400g x2,no,yes,52.48
+April,2020,2020-04,food,Polony,2.5kg,no,yes,63.79
+April,2020,2020-04,food,Potatoes,10kg,yes,no,66.7
+April,2020,2020-04,food,Rice,10kg,yes,no,94.59
+April,2020,2020-04,food,Salt,1kg,yes,yes,17.39
+April,2020,2020-04,food,Samp,5kg,yes,no,32.96
+April,2020,2020-04,food,Soup,400g x2,yes,yes,25.98
+April,2020,2020-04,food,Spinach,8 bunches,no,no,79.92
+April,2020,2020-04,food,Sugar beans,5kg,yes,no,92.21
+April,2020,2020-04,food,Tea,250g,yes,yes,20.79
+April,2020,2020-04,food,Tinned pilchards,400g x6,no,no,105.54
+April,2020,2020-04,food,Tomatoes,6kg,no,no,60.66
+April,2020,2020-04,food,White bread,25 loaves,no,yes,291.4
+April,2020,2020-04,food,White sugar,10kg,yes,yes,144.49
+April,2020,2020-04,food,Wors,2kg,no,yes,126.89
+April,2020,2020-04,food,Total,44 items,n/a,yes,3408.08
+May,2020,2020-05,food,Stock cubes,24 cubes x2,yes,yes,37.98
+May,2020,2020-05,food,Apples,1.5kg,no,no,19.99
+May,2020,2020-05,food,Apricot jam,900g x2,no,yes,56.78
+May,2020,2020-05,food,Bananas,4kg,no,no,55.16
+May,2020,2020-05,food,Beef,2kg,no,yes,147.44
+May,2020,2020-05,food,Beef livers,2kg,no,yes,
+May,2020,2020-05,food,Brown bread,25 loaves,no,no,256.35
+May,2020,2020-05,food,Butternut,10kg,no,no,46.27
+May,2020,2020-05,food,Cabbage,2 heads,no,no,32.99
+May,2020,2020-05,food,Cake Flour,10kg,yes,no,75.99
+May,2020,2020-05,food,Canned beans,410g x6,no,yes,67.16
+May,2020,2020-05,food,Carrots,5kg,no,no,28.99
+May,2020,2020-05,food,Chicken feet,5kg,no,yes,192.23
+May,2020,2020-05,food,Chicken livers,2kg,no,yes,
+May,2020,2020-05,food,Cooking oil,5L,yes,no,100.99
+May,2020,2020-05,food,Cremora,800g,no,yes,34.19
+May,2020,2020-05,food,Curry powder,200g,yes,yes,29.19
+May,2020,2020-05,food,Eggs,60 eggs,no,no,87.59
+May,2020,2020-05,food,Fish,2kg,no,yes,
+May,2020,2020-05,food,Frozen chicken portions,10kg,yes,yes,332.35
+May,2020,2020-05,food,Full cream milk,6L,no,yes,
+May,2020,2020-05,food,Gizzards,2kg,no,yes,69.44
+May,2020,2020-05,food,Green pepper,2kg,no,yes,
+May,2020,2020-05,food,Inyama yangapakhathi,2kg,no,yes,72.6
+May,2020,2020-05,food,Maas,4L,no,no,41.99
+May,2020,2020-05,food,Maize meal,30kg,yes,no,246.97
+May,2020,2020-05,food,Margarine,1kg x2,no,yes,67.18
+May,2020,2020-05,food,Onions,10kg,yes,no,87.41
+May,2020,2020-05,food,Oranges,7kg,no,yes,
+May,2020,2020-05,food,Peanut butter,400g x2,no,yes,59.58
+May,2020,2020-05,food,Polony,2.5kg,no,yes,58.79
+May,2020,2020-05,food,Potatoes,10kg,yes,no,52.39
+May,2020,2020-05,food,Rice,10kg,yes,no,109.99
+May,2020,2020-05,food,Salt,1kg,yes,yes,15.79
+May,2020,2020-05,food,Samp,5kg,yes,no,34.24
+May,2020,2020-05,food,Soup,400g x2,yes,yes,29.18
+May,2020,2020-05,food,Spinach,8 bunches,no,no,71.92
+May,2020,2020-05,food,Sugar beans,5kg,yes,no,99.79
+May,2020,2020-05,food,Tea,250g,yes,yes,23.39
+May,2020,2020-05,food,Tinned pilchards,400g x6,no,no,106.74
+May,2020,2020-05,food,Tomatoes,6kg,no,no,65.98
+May,2020,2020-05,food,White bread,25 loaves,no,yes,286.4
+May,2020,2020-05,food,White sugar,10kg,yes,yes,153.59
+May,2020,2020-05,food,Wors,2kg,no,yes,115.92
+May,2020,2020-05,food,Total,44 items,n/a,yes,3470.92
+June,2020,2020-06,food,Stock cubes,24 cubes x2,yes,yes,36.78
+June,2020,2020-06,food,Apples,1.5kg,no,no,17.19
+June,2020,2020-06,food,Apricot jam,900g x2,no,yes,57.98
+June,2020,2020-06,food,Bananas,4kg,no,no,43.09
+June,2020,2020-06,food,Beef,2kg,no,yes,149.94
+June,2020,2020-06,food,Beef livers,2kg,no,yes,
+June,2020,2020-06,food,Brown bread,25 loaves,no,no,256.35
+June,2020,2020-06,food,Butternut,10kg,no,no,43.13
+June,2020,2020-06,food,Cabbage,2 heads,no,no,32.48
+June,2020,2020-06,food,Cake Flour,10kg,yes,no,78.99
+June,2020,2020-06,food,Canned beans,410g x6,no,yes,68.36
+June,2020,2020-06,food,Carrots,5kg,no,no,31.99
+June,2020,2020-06,food,Chicken feet,5kg,no,yes,198.59
+June,2020,2020-06,food,Chicken livers,2kg,no,yes,
+June,2020,2020-06,food,Cooking oil,5L,yes,no,102.59
+June,2020,2020-06,food,Cremora,800g,no,yes,33.19
+June,2020,2020-06,food,Curry powder,200g,yes,yes,28.59
+June,2020,2020-06,food,Eggs,60 eggs,no,no,92.19
+June,2020,2020-06,food,Fish,2kg,no,yes,
+June,2020,2020-06,food,Frozen chicken portions,10kg,yes,yes,337.89
+June,2020,2020-06,food,Full cream milk,6L,no,yes,
+June,2020,2020-06,food,Gizzards,2kg,no,yes,66.58
+June,2020,2020-06,food,Green pepper,2kg,no,yes,
+June,2020,2020-06,food,Inyama yangapakhathi,2kg,no,yes,73.49
+June,2020,2020-06,food,Maas,4L,no,no,43.19
+June,2020,2020-06,food,Maize meal,30kg,yes,no,253.98
+June,2020,2020-06,food,Margarine,1kg x2,no,yes,72.78
+June,2020,2020-06,food,Onions,10kg,yes,no,88.55
+June,2020,2020-06,food,Oranges,7kg,no,yes,
+June,2020,2020-06,food,Peanut butter,400g x2,no,yes,56.78
+June,2020,2020-06,food,Polony,2.5kg,no,yes,60.39
+June,2020,2020-06,food,Potatoes,10kg,yes,no,43.62
+June,2020,2020-06,food,Rice,10kg,yes,no,112.19
+June,2020,2020-06,food,Salt,1kg,yes,yes,15.59
+June,2020,2020-06,food,Samp,5kg,yes,no,34.24
+June,2020,2020-06,food,Soup,400g x2,yes,yes,29.18
+June,2020,2020-06,food,Spinach,8 bunches,no,no,79.92
+June,2020,2020-06,food,Sugar beans,5kg,yes,no,99.79
+June,2020,2020-06,food,Tea,250g,yes,yes,22.99
+June,2020,2020-06,food,Tinned pilchards,400g x6,no,no,104.34
+June,2020,2020-06,food,Tomatoes,6kg,no,no,53.98
+June,2020,2020-06,food,White bread,25 loaves,no,yes,287.4
+June,2020,2020-06,food,White sugar,10kg,yes,yes,150.99
+June,2020,2020-06,food,Wors,2kg,no,yes,126.94
+June,2020,2020-06,food,Total,44 items,n/a,yes,3486.23
+July,2020,2020-07,food,Stock cubes,24 cubes x2,yes,yes,33.98
+July,2020,2020-07,food,Apples,1.5kg,no,no,15.79
+July,2020,2020-07,food,Apricot jam,900g x2,no,yes,58.38
+July,2020,2020-07,food,Bananas,4kg,no,no,33.49
+July,2020,2020-07,food,Beef,2kg,no,yes,153.39
+July,2020,2020-07,food,Beef livers,2kg,no,yes,
+July,2020,2020-07,food,Brown bread,25 loaves,no,no,256.35
+July,2020,2020-07,food,Butternut,10kg,no,no,45.13
+July,2020,2020-07,food,Cabbage,2 heads,no,no,31.98
+July,2020,2020-07,food,Cake Flour,10kg,yes,no,81.59
+July,2020,2020-07,food,Canned beans,410g x6,no,yes,66.55
+July,2020,2020-07,food,Carrots,5kg,no,no,21.59
+July,2020,2020-07,food,Chicken feet,5kg,no,yes,203.59
+July,2020,2020-07,food,Chicken livers,2kg,no,yes,
+July,2020,2020-07,food,Cooking oil,5L,yes,no,100.79
+July,2020,2020-07,food,Cremora,800g,no,yes,32.79
+July,2020,2020-07,food,Curry powder,200g,yes,yes,28.19
+July,2020,2020-07,food,Eggs,60 eggs,no,no,91.59
+July,2020,2020-07,food,Fish,2kg,no,yes,
+July,2020,2020-07,food,Frozen chicken portions,10kg,yes,yes,339.89
+July,2020,2020-07,food,Full cream milk,6L,no,yes,
+July,2020,2020-07,food,Gizzards,2kg,no,yes,64.89
+July,2020,2020-07,food,Green pepper,2kg,no,yes,
+July,2020,2020-07,food,Inyama yangapakhathi,2kg,no,yes,72.49
+July,2020,2020-07,food,Maas,4L,no,no,41.59
+July,2020,2020-07,food,Maize meal,35kg,yes,no,254.98
+July,2020,2020-07,food,Margarine,1kg x2,no,yes,75.58
+July,2020,2020-07,food,Onions,10kg,yes,no,61.99
+July,2020,2020-07,food,Oranges,7kg,no,yes,
+July,2020,2020-07,food,Peanut butter,400g x2,no,yes,56.38
+July,2020,2020-07,food,Polony,2.5kg,no,yes,60.39
+July,2020,2020-07,food,Potatoes,10kg,yes,no,46.3
+July,2020,2020-07,food,Rice,10kg,yes,no,111.59
+July,2020,2020-07,food,Salt,1kg,yes,yes,15.99
+July,2020,2020-07,food,Samp,5kg,yes,no,34.74
+July,2020,2020-07,food,Soup,400g x2,yes,yes,28.78
+July,2020,2020-07,food,Spinach,8 bunches,no,no,63.92
+July,2020,2020-07,food,Sugar beans,5kg,yes,no,98.59
+July,2020,2020-07,food,Tea,250g,yes,yes,21.79
+July,2020,2020-07,food,Tinned pilchards,400g x6,no,no,104.34
+July,2020,2020-07,food,Tomatoes,6kg,no,no,54.98
+July,2020,2020-07,food,White bread,25 loaves,no,yes,287.4
+July,2020,2020-07,food,White sugar,10kg,yes,yes,147.99
+July,2020,2020-07,food,Wors,2kg,no,yes,113.39
+July,2020,2020-07,food,Total,44 items,n/a,yes,3413.14
+August,2020,2020-08,food,Stock cubes,24 cubes x2,yes,yes,34.78
+August,2020,2020-08,food,Apples,1.5kg,no,no,16.19
+August,2020,2020-08,food,Apricot jam,900g x2,no,yes,57.18
+August,2020,2020-08,food,Bananas,4kg,no,no,36.69
+August,2020,2020-08,food,Beef,2kg,no,yes,148.89
+August,2020,2020-08,food,Beef livers,2kg,no,yes,
+August,2020,2020-08,food,Brown bread,25 loaves,no,no,258.85
+August,2020,2020-08,food,Butternut,10kg,no,no,61.7
+August,2020,2020-08,food,Cabbage,2 heads,no,no,29.58
+August,2020,2020-08,food,Cake Flour,10kg,yes,no,87.19
+August,2020,2020-08,food,Canned beans,410g x6,no,yes,68.34
+August,2020,2020-08,food,Carrots,5kg,no,no,19.19
+August,2020,2020-08,food,Chicken feet,5kg,no,yes,201.09
+August,2020,2020-08,food,Chicken livers,2kg,no,yes,
+August,2020,2020-08,food,Cooking oil,5L,yes,no,102.99
+August,2020,2020-08,food,Cremora,800g,no,yes,33.79
+August,2020,2020-08,food,Curry powder,200g,yes,yes,29.59
+August,2020,2020-08,food,Eggs,60 eggs,no,no,90.99
+August,2020,2020-08,food,Fish,2kg,no,yes,
+August,2020,2020-08,food,Frozen chicken portions,10kg,yes,yes,323.3
+August,2020,2020-08,food,Full cream milk,6L,no,yes,
+August,2020,2020-08,food,Gizzards,2kg,no,yes,60.89
+August,2020,2020-08,food,Green pepper,2kg,no,yes,
+August,2020,2020-08,food,Inyama yangapakhathi,2kg,no,yes,76.39
+August,2020,2020-08,food,Maas,4L,no,no,42.79
+August,2020,2020-08,food,Maize meal,35kg,yes,no,263.86
+August,2020,2020-08,food,Margarine,1kg x2,no,yes,71.18
+August,2020,2020-08,food,Onions,10kg,yes,no,61.59
+August,2020,2020-08,food,Oranges,7kg,no,yes,
+August,2020,2020-08,food,Peanut butter,400g x2,no,yes,62.38
+August,2020,2020-08,food,Polony,2.5kg,no,yes,54.39
+August,2020,2020-08,food,Potatoes,10kg,yes,no,64.41
+August,2020,2020-08,food,Rice,10kg,yes,no,111.59
+August,2020,2020-08,food,Salt,1kg,yes,yes,15.59
+August,2020,2020-08,food,Samp,5kg,yes,no,35.49
+August,2020,2020-08,food,Soup,400g x2,yes,yes,28.38
+August,2020,2020-08,food,Spinach,8 bunches,no,no,59.94
+August,2020,2020-08,food,Sugar beans,5kg,yes,no,107.39
+August,2020,2020-08,food,Tea,250g,yes,yes,21.99
+August,2020,2020-08,food,Tinned pilchards,400g x6,no,no,104.34
+August,2020,2020-08,food,Tomatoes,6kg,no,no,59.99
+August,2020,2020-08,food,White bread,25 loaves,no,yes,290.4
+August,2020,2020-08,food,White sugar,10kg,yes,yes,150.79
+August,2020,2020-08,food,Wors,2kg,no,yes,126.89
+August,2020,2020-08,food,Total,44 items,n/a,yes,3470.99
+September,2020,2020-09,food,Stock cubes,24 cubes x2,yes,yes,33.98
+September,2020,2020-09,food,Apples,1.5kg,no,no,15.19
+September,2020,2020-09,food,Apricot jam,900g x2,no,yes,57.18
+September,2020,2020-09,food,Bananas,4kg,no,no,40.69
+September,2020,2020-09,food,Beef,2kg,no,yes,148.89
+September,2020,2020-09,food,Beef livers,2kg,no,yes,
+September,2020,2020-09,food,Brown bread,25 loaves,yes,no,258.85
+September,2020,2020-09,food,Butternut,10kg,no,no,65.12
+September,2020,2020-09,food,Cabbage,2 heads,no,no,29.58
+September,2020,2020-09,food,Cake Flour,10kg,yes,no,85.99
+September,2020,2020-09,food,Canned beans,410g x6,no,yes,67.14
+September,2020,2020-09,food,Carrots,5kg,no,no,20.19
+September,2020,2020-09,food,Chicken feet,5kg,no,yes,184.84
+September,2020,2020-09,food,Chicken livers,2kg,no,yes,
+September,2020,2020-09,food,Cooking oil,5L,yes,no,104.59
+September,2020,2020-09,food,Cremora,800g,no,yes,34.39
+September,2020,2020-09,food,Curry powder,200g,yes,yes,29.59
+September,2020,2020-09,food,Eggs,60 eggs,no,no,92.59
+September,2020,2020-09,food,Fish,2kg,no,yes,
+September,2020,2020-09,food,Frozen chicken portions,10kg,yes,yes,313.3
+September,2020,2020-09,food,Full cream milk,6L,no,yes,
+September,2020,2020-09,food,Gizzards,2kg,no,yes,63.89
+September,2020,2020-09,food,Green pepper,2kg,no,yes,
+September,2020,2020-09,food,Inyama yangapakhathi,2kg,no,yes,78.39
+September,2020,2020-09,food,Maas,4L,no,no,43.39
+September,2020,2020-09,food,Maize meal,30kg,yes,no,262.47
+September,2020,2020-09,food,Margarine,1kg x2,no,yes,72.38
+September,2020,2020-09,food,Onions,10kg,yes,no,57.44
+September,2020,2020-09,food,Oranges,7kg,no,yes,
+September,2020,2020-09,food,Peanut butter,400g x2,no,yes,63.58
+September,2020,2020-09,food,Polony,2.5kg,no,yes,54.99
+September,2020,2020-09,food,Potatoes,10kg,yes,no,72.87
+September,2020,2020-09,food,Rice,10kg,yes,no,110.19
+September,2020,2020-09,food,Salt,1kg,yes,yes,15.59
+September,2020,2020-09,food,Samp,5kg,yes,no,34.74
+September,2020,2020-09,food,Soup,400g x2,yes,yes,26.78
+September,2020,2020-09,food,Spinach,8 bunches,no,no,57.28
+September,2020,2020-09,food,Sugar beans,5kg,yes,no,115.19
+September,2020,2020-09,food,Tea,250g,yes,yes,24.39
+September,2020,2020-09,food,Tinned pilchards,400g x6,no,no,99.54
+September,2020,2020-09,food,Tomatoes,6kg,no,no,58.74
+September,2020,2020-09,food,Total,44 items,n/a,yes,3453.62
+September,2020,2020-09,food,White bread,25 loaves,yes,yes,291.4
+September,2020,2020-09,food,White sugar,10kg,yes,yes,147.39
+September,2020,2020-09,food,Wors,2kg,no,yes,120.89
+October,2020,2020-10,food,Apples,3kg,no,no,33.42
+October,2020,2020-10,food,Apricot jam,900g,no,yes,27.72
+October,2020,2020-10,food,Bananas,4kg,no,no,57.51
+October,2020,2020-10,food,Beef,2kg,no,yes,141.1
+October,2020,2020-10,food,Beef livers,2kg,no,yes,73.18
+October,2020,2020-10,food,Brown bread,25 loaves,yes,no,297.72
+October,2020,2020-10,food,Butternut,10kg,no,no,114.36
+October,2020,2020-10,food,Cabbage,2 heads,no,no,32.27
+October,2020,2020-10,food,Cake flour,10kg,yes,no,93.33
+October,2020,2020-10,food,Canned beans,410g x6,no,yes,65.44
+October,2020,2020-10,food,Carrots,5kg,no,yes,27.95
+October,2020,2020-10,food,Chicken feet,2kg,no,yes,65.78
+October,2020,2020-10,food,Chicken livers,2kg,no,yes,51.18
+October,2020,2020-10,food,Cooking oil,5L,yes,no,106.71
+October,2020,2020-10,food,Cremora,800g,no,yes,34.84
+October,2020,2020-10,food,Curry powder,200g,yes,yes,30.38
+October,2020,2020-10,food,Eggs,60 eggs,no,no,98.01
+October,2020,2020-10,food,Fish,2kg,no,yes,91.34
+October,2020,2020-10,food,Frozen chicken portions,10kg,yes,yes,312.62
+October,2020,2020-10,food,Full cream milk,6L,no,yes,73.81
+October,2020,2020-10,food,Gizzards,2kg,no,yes,64.4
+October,2020,2020-10,food,Green pepper,2kg,no,yes,50.3
+October,2020,2020-10,food,Inyama yangapakhathi,2kg,no,yes,76.65
+October,2020,2020-10,food,Maas,4L,no,no,46.26
+October,2020,2020-10,food,Maize meal,30kg,yes,no,216.84
+October,2020,2020-10,food,Margarine,1kg,no,yes,33.08
+October,2020,2020-10,food,Onions,10kg,yes,no,64.64
+October,2020,2020-10,food,Oranges,7kg,no,yes,62.68
+October,2020,2020-10,food,Peanut butter,400g x2,no,yes,61.74
+October,2020,2020-10,food,Polony,2.5kg,no,yes,48.58
+October,2020,2020-10,food,Potatoes,10kg,yes,no,80.33
+October,2020,2020-10,food,Rice,10kg,yes,yes,136.7
+October,2020,2020-10,food,Salt,1kg,yes,yes,12.23
+October,2020,2020-10,food,Samp,5kg,yes,no,42.53
+October,2020,2020-10,food,Soup,400g x2,yes,yes,36.81
+October,2020,2020-10,food,Spinach,8 bunches,no,no,75.9
+October,2020,2020-10,food,Stock cubes,24 cubes x2,yes,yes,38.4
+October,2020,2020-10,food,Sugar beans,5kg,yes,yes,124.93
+October,2020,2020-10,food,Tea,250g,yes,yes,23.18
+October,2020,2020-10,food,Tinned pilchards,400g x6,no,no,115.62
+October,2020,2020-10,food,Tomatoes,6kg,no,no,85.19
+October,2020,2020-10,food,Total,44 items,n/a,yes,3916.72
+October,2020,2020-10,food,White bread,25 loaves,yes,yes,327.62
+October,2020,2020-10,food,White sugar,10kg,yes,yes,151.54
+October,2020,2020-10,food,Wors,2kg,no,yes,111.88
+November,2020,2020-11,food,Apples,3kg,no,no,34.27
+November,2020,2020-11,food,Apricot jam,900g,no,yes,28.1
+November,2020,2020-11,food,Bananas,4kg,no,no,65.13
+November,2020,2020-11,food,Beef,2kg,no,yes,148.96
+November,2020,2020-11,food,Beef livers,2kg,no,yes,72.86
+November,2020,2020-11,food,Brown bread,25 loaves,yes,no,304.35
+November,2020,2020-11,food,Butternut,10kg,no,no,108.2
+November,2020,2020-11,food,Cabbage,2 heads,no,no,30.47
+November,2020,2020-11,food,Cake flour,10kg,yes,no,94.6
+November,2020,2020-11,food,Canned beans,410g x6,no,yes,66.01
+November,2020,2020-11,food,Carrots,5kg,no,yes,30.54
+November,2020,2020-11,food,Chicken feet,2kg,no,yes,68.42
+November,2020,2020-11,food,Chicken livers,2kg,no,yes,48.43
+November,2020,2020-11,food,Cooking oil,5L,yes,no,106.58
+November,2020,2020-11,food,Cremora,800g,no,yes,34.99
+November,2020,2020-11,food,Curry powder,200g,yes,yes,30.69
+November,2020,2020-11,food,Eggs,60 eggs,no,no,98.49
+November,2020,2020-11,food,Fish,2kg,no,yes,89.13
+November,2020,2020-11,food,Frozen chicken portions,10kg,yes,yes,317.28
+November,2020,2020-11,food,Full cream milk,6L,no,yes,75.87
+November,2020,2020-11,food,Gizzards,2kg,no,yes,61.41
+November,2020,2020-11,food,Green pepper,2kg,no,yes,49.32
+November,2020,2020-11,food,Inyama yangapakhathi,2kg,no,yes,76.62
+November,2020,2020-11,food,Maas,4L,no,no,46.33
+November,2020,2020-11,food,Maize meal,30kg,yes,no,226.36
+November,2020,2020-11,food,Margarine,1kg,no,yes,34.41
+November,2020,2020-11,food,Onions,10kg,yes,no,69.94
+November,2020,2020-11,food,Oranges,7kg,no,yes,72.92
+November,2020,2020-11,food,Peanut butter,400g x2,no,yes,64.37
+November,2020,2020-11,food,Polony,2.5kg,no,yes,50.03
+November,2020,2020-11,food,Potatoes,10kg,yes,no,91
+November,2020,2020-11,food,Rice,10kg,yes,yes,137.84
+November,2020,2020-11,food,Salt,1kg,yes,yes,12.59
+November,2020,2020-11,food,Samp,5kg,yes,no,45.09
+November,2020,2020-11,food,Soup,400g x2,yes,yes,36.58
+November,2020,2020-11,food,Spinach,8 bunches,no,no,73.72
+November,2020,2020-11,food,Stock cubes,24 cubes x2,yes,yes,39.88
+November,2020,2020-11,food,Sugar beans,5kg,yes,yes,143.99
+November,2020,2020-11,food,Tea,250g,yes,yes,22.57
+November,2020,2020-11,food,Tinned pilchards,400g x6,no,no,114.93
+November,2020,2020-11,food,Tomatoes,6kg,no,no,96.79
+November,2020,2020-11,food,Total,44 items,n/a,yes,4018.22
+November,2020,2020-11,food,White bread,25 loaves,yes,yes,333.91
+November,2020,2020-11,food,White sugar,10kg,yes,yes,154.16
+November,2020,2020-11,food,Wors,2kg,no,yes,110.12
+December,2020,2020-12,food,Apples,3kg,no,no,37.35
+December,2020,2020-12,food,Apricot jam,900g,no,yes,28.56
+December,2020,2020-12,food,Bananas,4kg,no,no,58.19
+December,2020,2020-12,food,Beef,2kg,no,yes,149.5
+December,2020,2020-12,food,Beef livers,2kg,no,yes,73.16
+December,2020,2020-12,food,Brown bread,25 loaves,yes,no,311.91
+December,2020,2020-12,food,Butternut,10kg,no,no,79.78
+December,2020,2020-12,food,Cabbage,2 heads,no,no,27.98
+December,2020,2020-12,food,Cake flour,10kg,yes,no,95.08
+December,2020,2020-12,food,Canned beans,410g x6,no,yes,64.88
+December,2020,2020-12,food,Carrots,5kg,no,yes,29.62
+December,2020,2020-12,food,Chicken feet,2kg,no,yes,71.98
+December,2020,2020-12,food,Chicken livers,2kg,no,yes,50.9
+December,2020,2020-12,food,Cooking oil,5L,yes,no,106.04
+December,2020,2020-12,food,Cremora,800g,no,yes,35.29
+December,2020,2020-12,food,Curry powder,200g,yes,yes,31.42
+December,2020,2020-12,food,Eggs,60 eggs,no,no,99.35
+December,2020,2020-12,food,Fish,2kg,no,yes,93.67
+December,2020,2020-12,food,Frozen chicken portions,10kg,yes,yes,318.18
+December,2020,2020-12,food,Full cream milk,6L,no,yes,73.84
+December,2020,2020-12,food,Gizzards,2kg,no,yes,63.18
+December,2020,2020-12,food,Green pepper,2kg,no,yes,45.67
+December,2020,2020-12,food,Inyama yangapakhathi,2kg,no,yes,78.75
+December,2020,2020-12,food,Maas,4L,no,no,47.06
+December,2020,2020-12,food,Maize meal,30kg,yes,no,230.48
+December,2020,2020-12,food,Margarine,1kg,no,yes,34.24
+December,2020,2020-12,food,Onions,10kg,yes,no,71.61
+December,2020,2020-12,food,Oranges,7kg,no,yes,85.26
+December,2020,2020-12,food,Peanut butter,400g x2,no,yes,60.52
+December,2020,2020-12,food,Polony,2.5kg,no,yes,52.7
+December,2020,2020-12,food,Potatoes,10kg,yes,no,78.23
+December,2020,2020-12,food,Rice,10kg,yes,yes,140.1
+December,2020,2020-12,food,Salt,1kg,yes,yes,12.26
+December,2020,2020-12,food,Samp,5kg,yes,no,44.03
+December,2020,2020-12,food,Soup,400g x2,yes,yes,38.2
+December,2020,2020-12,food,Spinach,8 bunches,no,no,66.72
+December,2020,2020-12,food,Stock cubes,24 cubes x2,yes,yes,38.62
+December,2020,2020-12,food,Sugar beans,5kg,yes,yes,147.19
+December,2020,2020-12,food,Tea,250g,yes,yes,23.01
+December,2020,2020-12,food,Tinned pilchards,400g x6,no,no,113.91
+December,2020,2020-12,food,Tomatoes,6kg,no,no,88.69
+December,2020,2020-12,food,Total,44 items,n/a,yes,4002.42
+December,2020,2020-12,food,White bread,25 loaves,yes,yes,338.65
+December,2020,2020-12,food,White sugar,10kg,yes,yes,157.26
+December,2020,2020-12,food,Wors,2kg,no,yes,109.43
+January,2021,2021-01,food,Apples,3kg,no,no,40.03
+January,2021,2021-01,food,Apricot jam,900g,no,yes,28.76
+January,2021,2021-01,food,Bananas,4kg,no,no,62.68
+January,2021,2021-01,food,Beef,2kg,no,yes,154.43
+January,2021,2021-01,food,Beef livers,2kg,no,yes,70.67
+January,2021,2021-01,food,Brown bread,25 loaves,yes,no,306.82
+January,2021,2021-01,food,Butternut,10kg,no,no,72.81
+January,2021,2021-01,food,Cabbage,2 heads,no,no,27.63
+January,2021,2021-01,food,Cake flour,10kg,yes,no,95.22
+January,2021,2021-01,food,Canned beans,410g x6,no,yes,66.39
+January,2021,2021-01,food,Carrots,5kg,no,yes,33.73
+January,2021,2021-01,food,Chicken feet,2kg,no,yes,69.82
+January,2021,2021-01,food,Chicken livers,2kg,no,yes,52.51
+January,2021,2021-01,food,Cooking oil,5L,yes,no,108.17
+January,2021,2021-01,food,Cremora,800g,no,yes,36.29
+January,2021,2021-01,food,Curry powder,200g,yes,yes,31.78
+January,2021,2021-01,food,Eggs,60 eggs,no,no,102.44
+January,2021,2021-01,food,Fish,2kg,no,yes,95.74
+January,2021,2021-01,food,Frozen chicken portions,10kg,yes,yes,317.24
+January,2021,2021-01,food,Full cream milk,6L,no,yes,73.55
+January,2021,2021-01,food,Gizzards,2kg,no,yes,66.11
+January,2021,2021-01,food,Green pepper,2kg,no,yes,47.53
+January,2021,2021-01,food,Inyama yangapakhathi,2kg,no,yes,76.18
+January,2021,2021-01,food,Maas,4L,no,no,47.22
+January,2021,2021-01,food,Maize meal,30kg,yes,no,244.02
+January,2021,2021-01,food,Margarine,1kg,no,yes,34.85
+January,2021,2021-01,food,Onions,10kg,yes,no,71.53
+January,2021,2021-01,food,Oranges,7kg,no,yes,91.84
+January,2021,2021-01,food,Peanut butter,400g x2,no,yes,63.1
+January,2021,2021-01,food,Polony,2.5kg,no,yes,51.64
+January,2021,2021-01,food,Potatoes,10kg,yes,no,70.06
+January,2021,2021-01,food,Rice,10kg,yes,yes,139.54
+January,2021,2021-01,food,Salt,1kg,yes,yes,12.87
+January,2021,2021-01,food,Samp,5kg,yes,no,45.38
+January,2021,2021-01,food,Soup,400g x2,yes,yes,38.86
+January,2021,2021-01,food,Spinach,8 bunches,no,no,79.55
+January,2021,2021-01,food,Stock cubes,24 cubes x2,yes,yes,39.56
+January,2021,2021-01,food,Sugar beans,5kg,yes,yes,155.27
+January,2021,2021-01,food,Tea,250g,yes,yes,23.73
+January,2021,2021-01,food,Tinned pilchards,400g x6,no,no,113.61
+January,2021,2021-01,food,Tomatoes,6kg,no,no,82.75
+January,2021,2021-01,food,Total,44 items,n/a,yes,4051.2
+January,2021,2021-01,food,White bread,25 loaves,yes,yes,333.95
+January,2021,2021-01,food,White sugar,10kg,yes,yes,160.04
+January,2021,2021-01,food,Wors,2kg,no,yes,115.33
+February,2021,2021-02,food,Apples,3kg,no,no,41.61
+February,2021,2021-02,food,Apricot jam,900g,no,yes,27.97
+February,2021,2021-02,food,Bananas,4kg,no,no,52.36
+February,2021,2021-02,food,Beef,2kg,no,yes,150.83
+February,2021,2021-02,food,Beef livers,2kg,no,yes,72.33
+February,2021,2021-02,food,Brown bread,25 loaves,yes,no,304.13
+February,2021,2021-02,food,Butternut,10kg,no,no,62.09
+February,2021,2021-02,food,Cabbage,2 heads,no,no,26.89
+February,2021,2021-02,food,Cake flour,10kg,yes,no,94.72
+February,2021,2021-02,food,Canned beans,410g x6,no,yes,66.08
+February,2021,2021-02,food,Carrots,5kg,no,yes,29.52
+February,2021,2021-02,food,Chicken feet,2kg,no,yes,63.29
+February,2021,2021-02,food,Chicken livers,2kg,no,yes,50.31
+February,2021,2021-02,food,Cooking oil,5L,yes,no,108.53
+February,2021,2021-02,food,Cremora,800g,no,yes,34.46
+February,2021,2021-02,food,Curry powder,200g,yes,yes,31.59
+February,2021,2021-02,food,Eggs,60 eggs,no,no,99.46
+February,2021,2021-02,food,Fish,2kg,no,yes,96.79
+February,2021,2021-02,food,Frozen chicken portions,10kg,yes,yes,318.58
+February,2021,2021-02,food,Full cream milk,6L,no,yes,74.18
+February,2021,2021-02,food,Gizzards,2kg,no,yes,67.59
+February,2021,2021-02,food,Green pepper,2kg,no,yes,43.51
+February,2021,2021-02,food,Inyama yangapakhathi,2kg,no,yes,75.63
+February,2021,2021-02,food,Maas,4L,no,no,47.1
+February,2021,2021-02,food,Maize meal,30kg,yes,no,241.06
+February,2021,2021-02,food,Margarine,1kg,no,yes,34.28
+February,2021,2021-02,food,Onions,10kg,yes,no,69.17
+February,2021,2021-02,food,Oranges,7kg,no,yes,102.93
+February,2021,2021-02,food,Peanut butter,400g x2,no,yes,59.92
+February,2021,2021-02,food,Polony,2.5kg,no,yes,49.38
+February,2021,2021-02,food,Potatoes,10kg,yes,no,64.44
+February,2021,2021-02,food,Rice,10kg,yes,yes,140.75
+February,2021,2021-02,food,Salt,1kg,yes,yes,12.81
+February,2021,2021-02,food,Samp,5kg,yes,no,45.56
+February,2021,2021-02,food,Soup,400g x2,yes,yes,38.7
+February,2021,2021-02,food,Spinach,8 bunches,no,no,80.58
+February,2021,2021-02,food,Stock cubes,24 cubes x2,yes,yes,36.6
+February,2021,2021-02,food,Sugar beans,5kg,yes,yes,157.69
+February,2021,2021-02,food,Tea,250g,yes,yes,22.6
+February,2021,2021-02,food,Tinned pilchards,400g x6,no,no,114.46
+February,2021,2021-02,food,Tomatoes,6kg,no,no,85.61
+February,2021,2021-02,food,Total,44 items,n/a,yes,4001.17
+February,2021,2021-02,food,White bread,25 loaves,yes,yes,333.97
+February,2021,2021-02,food,White sugar,10kg,yes,yes,159.74
+February,2021,2021-02,food,Wors,2kg,no,yes,111.36
+March,2021,2021-03,food,Apples,3kg,no,no,40.45
+March,2021,2021-03,food,Apricot jam,900g,no,yes,29.26
+March,2021,2021-03,food,Bananas,4kg,no,no,56.52
+March,2021,2021-03,food,Beef,2kg,no,yes,153.95
+March,2021,2021-03,food,Beef livers,2kg,no,yes,75.04
+March,2021,2021-03,food,Brown bread,25 loaves,yes,no,303.94
+March,2021,2021-03,food,Butternut,10kg,no,no,57.31
+March,2021,2021-03,food,Cabbage,2 heads,no,no,30.32
+March,2021,2021-03,food,Cake flour,10kg,yes,no,94.56
+March,2021,2021-03,food,Canned beans,410g x6,no,yes,66.09
+March,2021,2021-03,food,Carrots,5kg,no,yes,33.35
+March,2021,2021-03,food,Chicken feet,2kg,no,yes,65.12
+March,2021,2021-03,food,Chicken livers,2kg,no,yes,51.24
+March,2021,2021-03,food,Cooking oil,5L,yes,no,109.82
+March,2021,2021-03,food,Cremora,800g,no,yes,35.33
+March,2021,2021-03,food,Curry powder,200g,yes,yes,29.84
+March,2021,2021-03,food,Eggs,60 eggs,no,no,99.14
+March,2021,2021-03,food,Fish,2kg,no,yes,94.57
+March,2021,2021-03,food,Frozen chicken portions,10kg,yes,yes,327.56
+March,2021,2021-03,food,Full cream milk,6L,no,yes,73.63
+March,2021,2021-03,food,Gizzards,2kg,no,yes,68.86
+March,2021,2021-03,food,Green pepper,2kg,no,yes,43.62
+March,2021,2021-03,food,Inyama yangapakhathi,2kg,no,yes,73.4
+March,2021,2021-03,food,Maas,4L,no,no,48.03
+March,2021,2021-03,food,Maize meal,30kg,yes,no,240.93
+March,2021,2021-03,food,Margarine,1kg,no,yes,35.01
+March,2021,2021-03,food,Onions,10kg,yes,no,61.52
+March,2021,2021-03,food,Oranges,7kg,no,yes,104.07
+March,2021,2021-03,food,Peanut butter,400g x2,no,yes,62.11
+March,2021,2021-03,food,Polony,2.5kg,no,yes,49.94
+March,2021,2021-03,food,Potatoes,10kg,yes,no,59.39
+March,2021,2021-03,food,Rice,10kg,yes,yes,138.51
+March,2021,2021-03,food,Salt,1kg,yes,yes,12.35
+March,2021,2021-03,food,Samp,5kg,yes,no,45.58
+March,2021,2021-03,food,Soup,400g x2,yes,yes,38.25
+March,2021,2021-03,food,Spinach,8 bunches,no,no,87
+March,2021,2021-03,food,Stock cubes,24 cubes x2,yes,yes,38.83
+March,2021,2021-03,food,Sugar beans,5kg,yes,yes,158.76
+March,2021,2021-03,food,Tea,250g,yes,yes,22.89
+March,2021,2021-03,food,Tinned pilchards,400g x6,no,no,114.48
+March,2021,2021-03,food,Tomatoes,6kg,no,no,103.41
+March,2021,2021-03,food,Total,44 items,n/a,yes,4039.56
+March,2021,2021-03,food,White bread,25 loaves,yes,yes,333.59
+March,2021,2021-03,food,White sugar,10kg,yes,yes,158.19
+March,2021,2021-03,food,Wors,2kg,no,yes,113.77
+April,2021,2021-04,food,Apples,3kg,no,no,34.04
+April,2021,2021-04,food,Apricot jam,900g,no,yes,29.51
+April,2021,2021-04,food,Bananas,4kg,no,no,65.29
+April,2021,2021-04,food,Beef,2kg,no,yes,158.22
+April,2021,2021-04,food,Beef livers,2kg,no,yes,81.35
+April,2021,2021-04,food,Brown bread,25 loaves,yes,no,303.16
+April,2021,2021-04,food,Butternut,10kg,no,no,68.09
+April,2021,2021-04,food,Cabbage,2 heads,no,no,34.29
+April,2021,2021-04,food,Cake flour,10kg,yes,no,95.83
+April,2021,2021-04,food,Canned beans,410g x6,no,yes,65.15
+April,2021,2021-04,food,Carrots,5kg,no,yes,37.22
+April,2021,2021-04,food,Chicken feet,2kg,no,yes,68.99
+April,2021,2021-04,food,Chicken livers,2kg,no,yes,54.17
+April,2021,2021-04,food,Cooking oil,5L,yes,no,124.89
+April,2021,2021-04,food,Cremora,800g,no,yes,35.6
+April,2021,2021-04,food,Curry powder,200g,yes,yes,31.18
+April,2021,2021-04,food,Eggs,60 eggs,no,no,106.6
+April,2021,2021-04,food,Fish,2kg,no,yes,99.25
+April,2021,2021-04,food,Frozen chicken portions,10kg,yes,yes,330.44
+April,2021,2021-04,food,Full cream milk,6L,no,yes,77.13
+April,2021,2021-04,food,Gizzards,2kg,no,yes,77.13
+April,2021,2021-04,food,Green pepper,2kg,no,yes,45.06
+April,2021,2021-04,food,Inyama yangapakhathi,2kg,no,yes,78.1
+April,2021,2021-04,food,Maas,4L,no,no,48.4
+April,2021,2021-04,food,Maize meal,30kg,yes,no,247.46
+April,2021,2021-04,food,Margarine,1kg,no,yes,35.36
+April,2021,2021-04,food,Onions,10kg,yes,no,69.02
+April,2021,2021-04,food,Oranges,7kg,no,yes,87.6
+April,2021,2021-04,food,Peanut butter,400g x2,no,yes,63.43
+April,2021,2021-04,food,Polony,2.5kg,no,yes,48.85
+April,2021,2021-04,food,Potatoes,10kg,yes,no,63.07
+April,2021,2021-04,food,Rice,10kg,yes,yes,141.1
+April,2021,2021-04,food,Salt,1kg,yes,yes,12.65
+April,2021,2021-04,food,Samp,5kg,yes,no,47.43
+April,2021,2021-04,food,Soup,400g x2,yes,yes,40.03
+April,2021,2021-04,food,Spinach,8 bunches,no,no,92.93
+April,2021,2021-04,food,Stock cubes,24 cubes x2,yes,yes,38.62
+April,2021,2021-04,food,Sugar beans,5kg,yes,yes,165.45
+April,2021,2021-04,food,Tea,250g,yes,yes,21.9
+April,2021,2021-04,food,Tinned pilchards,400g x6,no,no,117.89
+April,2021,2021-04,food,Tomatoes,6kg,no,no,137.19
+April,2021,2021-04,food,Total,44 items,n/a,yes,4198.93
+April,2021,2021-04,food,White bread,25 loaves,yes,yes,331.75
+April,2021,2021-04,food,White sugar,10kg,yes,yes,163.21
+April,2021,2021-04,food,Wors,2kg,no,yes,124.92
+May,2021,2021-05,food,Apples,3kg,no,no,36.86
+May,2021,2021-05,food,Apricot jam,900g,no,yes,29.15
+May,2021,2021-05,food,Bananas,4kg,no,no,62.36
+May,2021,2021-05,food,Beef,2kg,no,yes,155.36
+May,2021,2021-05,food,Beef livers,2kg,no,yes,80.61
+May,2021,2021-05,food,Brown bread,25 loaves,yes,no,300.33
+May,2021,2021-05,food,Butternut,10kg,no,no,67.06
+May,2021,2021-05,food,Cabbage,2 heads,no,no,35.63
+May,2021,2021-05,food,Cake flour,10kg,yes,no,96.08
+May,2021,2021-05,food,Canned beans,410g x6,no,yes,66.51
+May,2021,2021-05,food,Carrots,5kg,no,yes,37.53
+May,2021,2021-05,food,Chicken feet,2kg,no,yes,66.88
+May,2021,2021-05,food,Chicken livers,2kg,no,yes,52.22
+May,2021,2021-05,food,Cooking oil,5L,yes,no,132.86
+May,2021,2021-05,food,Cremora,800g,no,yes,36.56
+May,2021,2021-05,food,Curry powder,200g,yes,yes,30.54
+May,2021,2021-05,food,Eggs,60 eggs,no,no,104.84
+May,2021,2021-05,food,Fish,2kg,no,yes,93.6
+May,2021,2021-05,food,Frozen chicken portions,10kg,yes,yes,328.28
+May,2021,2021-05,food,Full cream milk,6L,no,yes,77.99
+May,2021,2021-05,food,Gizzards,2kg,no,yes,72.85
+May,2021,2021-05,food,Green pepper,2kg,no,yes,45.86
+May,2021,2021-05,food,Inyama yangapakhathi,2kg,no,yes,76.31
+May,2021,2021-05,food,Maas,4L,no,no,49.13
+May,2021,2021-05,food,Maize meal,30kg,yes,no,249.19
+May,2021,2021-05,food,Margarine,1kg,no,yes,35.01
+May,2021,2021-05,food,Onions,10kg,yes,no,71.69
+May,2021,2021-05,food,Oranges,7kg,no,yes,56.2
+May,2021,2021-05,food,Peanut butter,400g x2,no,yes,64.21
+May,2021,2021-05,food,Polony,2.5kg,no,yes,46.76
+May,2021,2021-05,food,Potatoes,10kg,yes,no,63.59
+May,2021,2021-05,food,Rice,10kg,yes,yes,139.9
+May,2021,2021-05,food,Salt,1kg,yes,yes,13.01
+May,2021,2021-05,food,Samp,5kg,yes,no,47.57
+May,2021,2021-05,food,Soup,400g x2,yes,yes,39.98
+May,2021,2021-05,food,Spinach,8 bunches,no,no,92.16
+May,2021,2021-05,food,Stock cubes,24 cubes x2,yes,yes,38.43
+May,2021,2021-05,food,Sugar beans,5kg,yes,yes,166.31
+May,2021,2021-05,food,Tea,250g,yes,yes,22
+May,2021,2021-05,food,Tinned pilchards,400g x6,no,no,118.46
+May,2021,2021-05,food,Tomatoes,6kg,no,no,124.79
+May,2021,2021-05,food,Total,44 items,n/a,yes,4137.11
+May,2021,2021-05,food,White bread,25 loaves,yes,yes,330.56
+May,2021,2021-05,food,White sugar,10kg,yes,yes,161.82
+May,2021,2021-05,food,Wors,2kg,no,yes,120.09
+June,2021,2021-06,food,Apples,3kg,no,no,34.56
+June,2021,2021-06,food,Apricot jam,900g,no,yes,28.74
+June,2021,2021-06,food,Bananas,4kg,no,no,56.94
+June,2021,2021-06,food,Beef,2kg,no,yes,154.83
+June,2021,2021-06,food,Beef livers,2kg,no,yes,83.83
+June,2021,2021-06,food,Brown bread,25 loaves,yes,no,299.85
+June,2021,2021-06,food,Butternut,10kg,no,no,65.62
+June,2021,2021-06,food,Cabbage,2 heads,no,no,32.28
+June,2021,2021-06,food,Cake flour,10kg,yes,no,93.69
+June,2021,2021-06,food,Canned beans,410g x6,no,yes,64.6
+June,2021,2021-06,food,Carrots,5kg,no,yes,35.72
+June,2021,2021-06,food,Chicken feet,2kg,no,yes,70.23
+June,2021,2021-06,food,Chicken livers,2kg,no,yes,55.23
+June,2021,2021-06,food,Cooking oil,5L,yes,no,135.74
+June,2021,2021-06,food,Cremora,800g,no,yes,35.4
+June,2021,2021-06,food,Curry powder,200g,yes,yes,30.69
+June,2021,2021-06,food,Eggs,60 eggs,no,no,105.53
+June,2021,2021-06,food,Fish,2kg,no,yes,97.7
+June,2021,2021-06,food,Frozen chicken portions,10kg,yes,yes,336.51
+June,2021,2021-06,food,Full cream milk,6L,no,yes,80.78
+June,2021,2021-06,food,Gizzards,2kg,no,yes,79.69
+June,2021,2021-06,food,Green pepper,2kg,no,yes,43.42
+June,2021,2021-06,food,Inyama yangapakhathi,2kg,no,yes,80.08
+June,2021,2021-06,food,Maas,4L,no,no,47.86
+June,2021,2021-06,food,Maize meal,30kg,yes,no,241.4
+June,2021,2021-06,food,Margarine,1kg,no,yes,37.31
+June,2021,2021-06,food,Onions,10kg,yes,no,73.84
+June,2021,2021-06,food,Oranges,7kg,no,yes,51.5
+June,2021,2021-06,food,Peanut butter,400g x2,no,yes,64.12
+June,2021,2021-06,food,Polony,2.5kg,no,yes,53.73
+June,2021,2021-06,food,Potatoes,10kg,yes,no,67.77
+June,2021,2021-06,food,Rice,10kg,yes,yes,137.65
+June,2021,2021-06,food,Salt,1kg,yes,yes,12.99
+June,2021,2021-06,food,Samp,5kg,yes,no,46.72
+June,2021,2021-06,food,Soup,400g x2,yes,yes,39.23
+June,2021,2021-06,food,Spinach,8 bunches,no,no,82.33
+June,2021,2021-06,food,Stock cubes,24 cubes x2,yes,yes,37.38
+June,2021,2021-06,food,Sugar beans,5kg,yes,yes,167.77
+June,2021,2021-06,food,Tea,250g,yes,yes,22.76
+June,2021,2021-06,food,Tinned pilchards,400g x6,no,no,119.04
+June,2021,2021-06,food,Tomatoes,6kg,no,no,106.42
+June,2021,2021-06,food,Total,44 items,n/a,yes,4128.23
+June,2021,2021-06,food,White bread,25 loaves,yes,yes,332.94
+June,2021,2021-06,food,White sugar,10kg,yes,yes,163.23
+June,2021,2021-06,food,Wors,2kg,no,yes,120.62
+July,2021,2021-07,food,Apples,3kg,no,no,36.29
+July,2021,2021-07,food,Apricot jam,900g,no,yes,29.5
+July,2021,2021-07,food,Bananas,4kg,no,no,55.24
+July,2021,2021-07,food,Beef,2kg,no,yes,161.09
+July,2021,2021-07,food,Beef livers,2kg,no,yes,90.25
+July,2021,2021-07,food,Brown bread,25 loaves,yes,no,302.48
+July,2021,2021-07,food,Butternut,10kg,no,no,68.37
+July,2021,2021-07,food,Cabbage,2 heads,no,no,32.13
+July,2021,2021-07,food,Cake flour,10kg,yes,no,92.9
+July,2021,2021-07,food,Canned beans,410g x6,no,yes,65.15
+July,2021,2021-07,food,Carrots,5kg,no,yes,31.51
+July,2021,2021-07,food,Chicken feet,2kg,no,yes,73.7
+July,2021,2021-07,food,Chicken livers,2kg,no,yes,57.86
+July,2021,2021-07,food,Cooking oil,5L,yes,no,140.52
+July,2021,2021-07,food,Cremora,800g,no,yes,35.74
+July,2021,2021-07,food,Curry powder,200g,yes,yes,30.8
+July,2021,2021-07,food,Eggs,60 eggs,no,no,107.59
+July,2021,2021-07,food,Fish,2kg,no,yes,106.93
+July,2021,2021-07,food,Frozen chicken portions,10kg,yes,yes,345.82
+July,2021,2021-07,food,Full cream milk,6L,no,yes,79.28
+July,2021,2021-07,food,Gizzards,2kg,no,yes,81.48
+July,2021,2021-07,food,Green pepper,2kg,no,yes,41.08
+July,2021,2021-07,food,Inyama yangapakhathi,2kg,no,yes,81.18
+July,2021,2021-07,food,Maas,4L,no,no,48.43
+July,2021,2021-07,food,Maize meal,30kg,yes,no,237.31
+July,2021,2021-07,food,Margarine,1kg,no,yes,36.44
+July,2021,2021-07,food,Onions,10kg,yes,no,78.76
+July,2021,2021-07,food,Oranges,7kg,no,yes,42.58
+July,2021,2021-07,food,Peanut butter,400g x2,no,yes,63.52
+July,2021,2021-07,food,Polony,2.5kg,no,yes,51.62
+July,2021,2021-07,food,Potatoes,10kg,yes,no,78.25
+July,2021,2021-07,food,Rice,10kg,yes,yes,136.69
+July,2021,2021-07,food,Salt,1kg,yes,yes,13.07
+July,2021,2021-07,food,Samp,5kg,yes,no,46.71
+July,2021,2021-07,food,Soup,400g x2,yes,yes,36.95
+July,2021,2021-07,food,Spinach,8 bunches,no,no,77.72
+July,2021,2021-07,food,Stock cubes,24 cubes x2,yes,yes,35.33
+July,2021,2021-07,food,Sugar beans,5kg,yes,yes,168.29
+July,2021,2021-07,food,Tea,250g,yes,yes,22.72
+July,2021,2021-07,food,Tinned pilchards,400g x6,no,no,114.28
+July,2021,2021-07,food,Tomatoes,6kg,no,no,87.31
+July,2021,2021-07,food,Total,44 items,n/a,yes,4137.43
+July,2021,2021-07,food,White bread,25 loaves,yes,yes,338.39
+July,2021,2021-07,food,White sugar,10kg,yes,yes,158.59
+July,2021,2021-07,food,Wors,2kg,no,yes,117.54
+August,2021,2021-08,food,Apples,3kg,no,no,36.22
+August,2021,2021-08,food,Apricot jam,900g,no,yes,31.04
+August,2021,2021-08,food,Bananas,4kg,no,no,58.07
+August,2021,2021-08,food,Beef,2kg,no,yes,167.7
+August,2021,2021-08,food,Beef livers,2kg,no,yes,90.02
+August,2021,2021-08,food,Brown bread,25 loaves,yes,no,305.82
+August,2021,2021-08,food,Butternut,10kg,no,no,80.22
+August,2021,2021-08,food,Cabbage,2 heads,no,no,33.6
+August,2021,2021-08,food,Cake flour,10kg,yes,no,95.09
+August,2021,2021-08,food,Canned beans,410g x6,no,yes,66.76
+August,2021,2021-08,food,Carrots,5kg,no,yes,36.74
+August,2021,2021-08,food,Chicken feet,2kg,no,yes,72.09
+August,2021,2021-08,food,Chicken livers,2kg,no,yes,58
+August,2021,2021-08,food,Cooking oil,5L,yes,no,136.59
+August,2021,2021-08,food,Cremora,800g,no,yes,37.23
+August,2021,2021-08,food,Curry powder,200g,yes,yes,31.61
+August,2021,2021-08,food,Eggs,60 eggs,no,no,116.6
+August,2021,2021-08,food,Fish,2kg,no,yes,97.26
+August,2021,2021-08,food,Frozen chicken portions,10kg,yes,yes,346.15
+August,2021,2021-08,food,Full cream milk,6L,no,yes,79.69
+August,2021,2021-08,food,Gizzards,2kg,no,yes,79.76
+August,2021,2021-08,food,Green pepper,2kg,no,yes,44.49
+August,2021,2021-08,food,Inyama yangapakhathi,2kg,no,yes,85.77
+August,2021,2021-08,food,Maas,4L,no,no,50.09
+August,2021,2021-08,food,Maize meal,30kg,yes,no,239.67
+August,2021,2021-08,food,Margarine,1kg,no,yes,37.26
+August,2021,2021-08,food,Onions,10kg,yes,no,75.9
+August,2021,2021-08,food,Oranges,7kg,no,yes,47.71
+August,2021,2021-08,food,Peanut butter,400g x2,no,yes,65.95
+August,2021,2021-08,food,Polony,2.5kg,no,yes,53.49
+August,2021,2021-08,food,Potatoes,10kg,yes,no,81.4
+August,2021,2021-08,food,Rice,10kg,yes,yes,138.01
+August,2021,2021-08,food,Salt,1kg,yes,yes,12.63
+August,2021,2021-08,food,Samp,5kg,yes,no,49.49
+August,2021,2021-08,food,Soup,400g x2,yes,yes,39.03
+August,2021,2021-08,food,Spinach,8 bunches,no,no,84.04
+August,2021,2021-08,food,Stock cubes,24 cubes x2,yes,yes,39.87
+August,2021,2021-08,food,Sugar beans,5kg,yes,yes,173.48
+August,2021,2021-08,food,Tea,250g,yes,yes,24.55
+August,2021,2021-08,food,Tinned pilchards,400g x6,no,no,118.95
+August,2021,2021-08,food,Tomatoes,6kg,no,no,90.18
+August,2021,2021-08,food,Total,44 items,n/a,yes,4241.11
+August,2021,2021-08,food,White bread,25 loaves,yes,yes,337.36
+August,2021,2021-08,food,White sugar,10kg,yes,yes,166.31
+August,2021,2021-08,food,Wors,2kg,no,yes,129.19
+September,2021,2021-09,food,Apples,3kg,no,no,37.74
+September,2021,2021-09,food,Apricot jam,900g,no,yes,30.18
+September,2021,2021-09,food,Bananas,4kg,no,no,58.45
+September,2021,2021-09,food,Beef,2kg,no,yes,166.63
+September,2021,2021-09,food,Beef livers,2kg,no,yes,94.11
+September,2021,2021-09,food,Brown bread,25 loaves,yes,no,305.39
+September,2021,2021-09,food,Butternut,10kg,no,no,84.39
+September,2021,2021-09,food,Cabbage,2 heads,no,no,33.5
+September,2021,2021-09,food,Cake flour,10kg,yes,no,95.68
+September,2021,2021-09,food,Canned beans,410g x6,no,yes,67.11
+September,2021,2021-09,food,Carrots,5kg,no,yes,30.51
+September,2021,2021-09,food,Chicken feet,2kg,no,yes,73.24
+September,2021,2021-09,food,Chicken livers,2kg,no,yes,60.04
+September,2021,2021-09,food,Cooking oil,5L,yes,no,135.08
+September,2021,2021-09,food,Cremora,800g,no,yes,36.59
+September,2021,2021-09,food,Curry powder,200g,yes,yes,31.21
+September,2021,2021-09,food,Eggs,60 eggs,no,no,114.32
+September,2021,2021-09,food,Fish,2kg,no,yes,102.47
+September,2021,2021-09,food,Frozen chicken portions,10kg,yes,yes,345.61
+September,2021,2021-09,food,Full cream milk,6L,no,yes,77.77
+September,2021,2021-09,food,Gizzards,2kg,no,yes,81.68
+September,2021,2021-09,food,Green pepper,2kg,no,yes,42.84
+September,2021,2021-09,food,Inyama yangapakhathi,2kg,no,yes,84.52
+September,2021,2021-09,food,Maas,4L,no,no,48.65
+September,2021,2021-09,food,Maize meal,30kg,yes,no,238.01
+September,2021,2021-09,food,Margarine,1kg,no,yes,36.45
+September,2021,2021-09,food,Onions,10kg,yes,no,74.31
+September,2021,2021-09,food,Oranges,7kg,no,yes,48.51
+September,2021,2021-09,food,Peanut butter,400g x2,no,yes,64.93
+September,2021,2021-09,food,Polony,2.5kg,no,yes,55.53
+September,2021,2021-09,food,Potatoes,10kg,yes,no,82.84
+September,2021,2021-09,food,Rice,10kg,yes,yes,140.18
+September,2021,2021-09,food,Salt,1kg,yes,yes,12.91
+September,2021,2021-09,food,Samp,5kg,yes,no,50.35
+September,2021,2021-09,food,Soup,400g x2,yes,yes,38.54
+September,2021,2021-09,food,Spinach,8 bunches,no,no,86.88
+September,2021,2021-09,food,Stock cubes,24 cubes x2,yes,yes,38.2
+September,2021,2021-09,food,Sugar beans,5kg,yes,yes,165.78
+September,2021,2021-09,food,Tea,250g,yes,yes,22.82
+September,2021,2021-09,food,Tinned pilchards,400g x6,no,no,120.91
+September,2021,2021-09,food,Tomatoes,6kg,no,no,81.97
+September,2021,2021-09,food,Total,44 items,n/a,yes,4219.48
+September,2021,2021-09,food,White bread,25 loaves,yes,yes,336.17
+September,2021,2021-09,food,White sugar,10kg,yes,yes,165.8
+September,2021,2021-09,food,Wors,2kg,no,yes,120.66
+October,2021,2021-10,food,Apples,3kg,no,no,38.45
+October,2021,2021-10,food,Apricot jam,900g,no,yes,29.54
+October,2021,2021-10,food,Bananas,4kg,no,no,59.63
+October,2021,2021-10,food,Beef,2kg,no,yes,166.23
+October,2021,2021-10,food,Beef livers,2kg,no,yes,95.07
+October,2021,2021-10,food,Brown bread,25 loaves,yes,no,307.02
+October,2021,2021-10,food,Butternut,10kg,no,no,131.24
+October,2021,2021-10,food,Cabbage,2 heads,no,no,30.47
+October,2021,2021-10,food,Cake flour,10kg,yes,no,94.75
+October,2021,2021-10,food,Canned beans,410g x6,no,yes,69.5
+October,2021,2021-10,food,Carrots,5kg,no,yes,29.26
+October,2021,2021-10,food,Chicken feet,2kg,no,yes,71.06
+October,2021,2021-10,food,Chicken livers,2kg,no,yes,62.38
+October,2021,2021-10,food,Cooking oil,5L,yes,no,132.37
+October,2021,2021-10,food,Cremora,800g,no,yes,36.87
+October,2021,2021-10,food,Curry powder,200g,yes,yes,31.47
+October,2021,2021-10,food,Eggs,60 eggs,no,no,115.54
+October,2021,2021-10,food,Fish,2kg,no,yes,102.13
+October,2021,2021-10,food,Frozen chicken portions,10kg,yes,yes,348.39
+October,2021,2021-10,food,Full cream milk,6L,no,yes,81.01
+October,2021,2021-10,food,Gizzards,2kg,no,yes,79.19
+October,2021,2021-10,food,Green pepper,2kg,no,yes,43.21
+October,2021,2021-10,food,Inyama yangapakhathi,2kg,no,yes,81.02
+October,2021,2021-10,food,Maas,4L,no,no,49.84
+October,2021,2021-10,food,Maize meal,30kg,yes,no,248.55
+October,2021,2021-10,food,Margarine,1kg,no,yes,37.65
+October,2021,2021-10,food,Onions,10kg,yes,no,65.08
+October,2021,2021-10,food,Oranges,7kg,no,yes,40.04
+October,2021,2021-10,food,Peanut butter,400g x2,no,yes,63.6
+October,2021,2021-10,food,Polony,2.5kg,no,yes,57.06
+October,2021,2021-10,food,Potatoes,10kg,yes,no,116.92
+October,2021,2021-10,food,Rice,10kg,yes,yes,137.52
+October,2021,2021-10,food,Salt,1kg,yes,yes,12.95
+October,2021,2021-10,food,Samp,5kg,yes,no,49.59
+October,2021,2021-10,food,Soup,400g x2,yes,yes,39.36
+October,2021,2021-10,food,Spinach,8 bunches,no,no,78.83
+October,2021,2021-10,food,Stock cubes,24 cubes x2,yes,yes,38.82
+October,2021,2021-10,food,Sugar beans,5kg,yes,yes,169.62
+October,2021,2021-10,food,Tea,250g,yes,yes,23.27
+October,2021,2021-10,food,Tinned pilchards,400g x6,no,no,120.58
+October,2021,2021-10,food,Tomatoes,6kg,no,no,103.81
+October,2021,2021-10,food,Total,44 items,n/a,yes,4317.56
+October,2021,2021-10,food,White bread,25 loaves,yes,yes,338.93
+October,2021,2021-10,food,White sugar,10kg,yes,yes,164.62
+October,2021,2021-10,food,Wors,2kg,no,yes,125.11
+November,2021,2021-11,food,Apples,3kg,no,no,39.27
+November,2021,2021-11,food,Apricot jam,900g,no,yes,28.8
+November,2021,2021-11,food,Bananas,4kg,no,no,61.9
+November,2021,2021-11,food,Beef,2kg,no,yes,171.56
+November,2021,2021-11,food,Beef livers,2kg,no,yes,93.95
+November,2021,2021-11,food,Brown bread,25 loaves,yes,no,311.81
+November,2021,2021-11,food,Butternut,10kg,no,no,107.94
+November,2021,2021-11,food,Cabbage,2 heads,no,no,30.64
+November,2021,2021-11,food,Cake flour,10kg,yes,no,94.23
+November,2021,2021-11,food,Canned beans,410g x6,no,yes,69.32
+November,2021,2021-11,food,Carrots,5kg,no,yes,25.86
+November,2021,2021-11,food,Chicken feet,2kg,no,yes,69.26
+November,2021,2021-11,food,Chicken livers,2kg,no,yes,60.96
+November,2021,2021-11,food,Cooking oil,5L,yes,no,135.77
+November,2021,2021-11,food,Cremora,800g,no,yes,38.36
+November,2021,2021-11,food,Curry powder,200g,yes,yes,31.38
+November,2021,2021-11,food,Eggs,60 eggs,no,no,112.88
+November,2021,2021-11,food,Fish,2kg,no,yes,106.44
+November,2021,2021-11,food,Frozen chicken portions,10kg,yes,yes,347.54
+November,2021,2021-11,food,Full cream milk,6L,no,yes,78.21
+November,2021,2021-11,food,Gizzards,2kg,no,yes,81.61
+November,2021,2021-11,food,Green pepper,2kg,no,yes,43.63
+November,2021,2021-11,food,Inyama yangapakhathi,2kg,no,yes,81.11
+November,2021,2021-11,food,Maas,4L,no,no,49.82
+November,2021,2021-11,food,Maize meal,30kg,yes,no,244.29
+November,2021,2021-11,food,Margarine,1kg,no,yes,37.82
+November,2021,2021-11,food,Onions,10kg,yes,no,63.39
+November,2021,2021-11,food,Oranges,7kg,no,yes,49.46
+November,2021,2021-11,food,Peanut butter,400g x2,no,yes,63.19
+November,2021,2021-11,food,Polony,2.5kg,no,yes,56.46
+November,2021,2021-11,food,Potatoes,10kg,yes,no,87.71
+November,2021,2021-11,food,Rice,10kg,yes,yes,139.64
+November,2021,2021-11,food,Salt,1kg,yes,yes,12.82
+November,2021,2021-11,food,Samp,5kg,yes,no,49.37
+November,2021,2021-11,food,Soup,400g x2,yes,yes,39.93
+November,2021,2021-11,food,Spinach,8 bunches,no,no,77.83
+November,2021,2021-11,food,Stock cubes,24 cubes x2,yes,yes,37.04
+November,2021,2021-11,food,Sugar beans,5kg,yes,yes,171.56
+November,2021,2021-11,food,Tea,250g,yes,yes,23.25
+November,2021,2021-11,food,Tinned pilchards,400g x6,no,no,120.47
+November,2021,2021-11,food,Tomatoes,6kg,no,no,97.97
+November,2021,2021-11,food,Total,44 items,n/a,yes,4272.44
+November,2021,2021-11,food,White bread,25 loaves,yes,yes,341.59
+November,2021,2021-11,food,White sugar,10kg,yes,yes,161.23
+November,2021,2021-11,food,Wors,2kg,no,yes,125.17
+December,2021,2021-12,food,Apples,3kg,no,no,42.05
+December,2021,2021-12,food,Apricot jam,900g,no,yes,29.96
+December,2021,2021-12,food,Bananas,4kg,no,no,61.34
+December,2021,2021-12,food,Beef,2kg,no,yes,175.16
+December,2021,2021-12,food,Beef livers,2kg,no,yes,95.13
+December,2021,2021-12,food,Brown bread,25 loaves,yes,no,314.91
+December,2021,2021-12,food,Butternut,10kg,no,no,85.07
+December,2021,2021-12,food,Cabbage,2 heads,no,no,29.73
+December,2021,2021-12,food,Cake flour,10kg,yes,no,95.87
+December,2021,2021-12,food,Canned beans,410g x6,no,yes,71.18
+December,2021,2021-12,food,Carrots,5kg,no,yes,30.33
+December,2021,2021-12,food,Chicken feet,2kg,no,yes,68.18
+December,2021,2021-12,food,Chicken livers,2kg,no,yes,61.96
+December,2021,2021-12,food,Cooking oil,5L,yes,no,138.25
+December,2021,2021-12,food,Cremora,800g,no,yes,38.04
+December,2021,2021-12,food,Curry powder,200g,yes,yes,30.76
+December,2021,2021-12,food,Eggs,60 eggs,no,no,110.29
+December,2021,2021-12,food,Fish,2kg,no,yes,107.2
+December,2021,2021-12,food,Frozen chicken portions,10kg,yes,yes,357.78
+December,2021,2021-12,food,Full cream milk,6L,no,yes,78.81
+December,2021,2021-12,food,Gizzards,2kg,no,yes,82.71
+December,2021,2021-12,food,Green pepper,2kg,no,yes,42.67
+December,2021,2021-12,food,Inyama yangapakhathi,2kg,no,yes,82.19
+December,2021,2021-12,food,Maas,4L,no,no,49.37
+December,2021,2021-12,food,Maize meal,30kg,yes,no,244.71
+December,2021,2021-12,food,Margarine,1kg,no,yes,37.96
+December,2021,2021-12,food,Onions,10kg,yes,no,66.43
+December,2021,2021-12,food,Oranges,7kg,no,yes,59.02
+December,2021,2021-12,food,Peanut butter,400g x2,no,yes,63.93
+December,2021,2021-12,food,Polony,2.5kg,no,yes,56.64
+December,2021,2021-12,food,Potatoes,10kg,yes,no,73.32
+December,2021,2021-12,food,Rice,10kg,yes,yes,135.56
+December,2021,2021-12,food,Salt,1kg,yes,yes,12.95
+December,2021,2021-12,food,Samp,5kg,yes,no,48.52
+December,2021,2021-12,food,Soup,400g x2,yes,yes,38.01
+December,2021,2021-12,food,Spinach,8 bunches,no,no,76.75
+December,2021,2021-12,food,Stock cubes,24 cubes x2,yes,yes,35.63
+December,2021,2021-12,food,Sugar beans,5kg,yes,yes,172.88
+December,2021,2021-12,food,Tea,250g,yes,yes,23.55
+December,2021,2021-12,food,Tinned pilchards,400g x6,no,no,121.73
+December,2021,2021-12,food,Tomatoes,6kg,no,no,94.66
+December,2021,2021-12,food,Total,44 items,n/a,yes,4275.94
+December,2021,2021-12,food,White bread,25 loaves,yes,yes,346.34
+December,2021,2021-12,food,White sugar,10kg,yes,yes,167.06
+December,2021,2021-12,food,Wors,2kg,no,yes,121.36
+January,2022,2022-01,food,Apples,3kg,no,no,45.32
+January,2022,2022-01,food,Apricot jam,900g,no,yes,31.19
+January,2022,2022-01,food,Bananas,4kg,no,no,67.88
+January,2022,2022-01,food,Beef,2kg,no,yes,173.03
+January,2022,2022-01,food,Beef livers,2kg,no,yes,96.88
+January,2022,2022-01,food,Brown bread,25 loaves,yes,no,316.01
+January,2022,2022-01,food,Butternut,10kg,no,no,91.47
+January,2022,2022-01,food,Cabbage,2 heads,no,no,29.63
+January,2022,2022-01,food,Cake flour,10kg,yes,no,98.04
+January,2022,2022-01,food,Canned beans,410g x6,no,yes,68.42
+January,2022,2022-01,food,Carrots,5kg,no,yes,33.42
+January,2022,2022-01,food,Chicken feet,2kg,no,yes,68.58
+January,2022,2022-01,food,Chicken livers,2kg,no,yes,62.09
+January,2022,2022-01,food,Cooking oil,5L,yes,no,140.9
+January,2022,2022-01,food,Cremora,800g,no,yes,39.67
+January,2022,2022-01,food,Curry powder,200g,yes,yes,32.38
+January,2022,2022-01,food,Eggs,60 eggs,no,no,115.68
+January,2022,2022-01,food,Fish,2kg,no,yes,103.1
+January,2022,2022-01,food,Frozen chicken portions,10kg,yes,yes,371
+January,2022,2022-01,food,Full cream milk,6L,no,yes,78.84
+January,2022,2022-01,food,Gizzards,2kg,no,yes,81.75
+January,2022,2022-01,food,Green pepper,2kg,no,yes,45.29
+January,2022,2022-01,food,Inyama yangapakhathi,2kg,no,yes,80.04
+January,2022,2022-01,food,Maas,4L,no,no,50.34
+January,2022,2022-01,food,Maize meal,30kg,yes,no,248.56
+January,2022,2022-01,food,Margarine,1kg,no,yes,37.92
+January,2022,2022-01,food,Onions,10kg,yes,no,70.95
+January,2022,2022-01,food,Oranges,7kg,no,yes,82.42
+January,2022,2022-01,food,Peanut butter,400g x2,no,yes,66.25
+January,2022,2022-01,food,Polony,2.5kg,no,yes,58.44
+January,2022,2022-01,food,Potatoes,10kg,yes,no,69.31
+January,2022,2022-01,food,Rice,10kg,yes,yes,138.24
+January,2022,2022-01,food,Salt,1kg,yes,yes,13.06
+January,2022,2022-01,food,Samp,5kg,yes,no,49.34
+January,2022,2022-01,food,Soup,400g x2,yes,yes,39.4
+January,2022,2022-01,food,Spinach,8 bunches,no,no,79.17
+January,2022,2022-01,food,Stock cubes,24 cubes x2,yes,yes,39.26
+January,2022,2022-01,food,Sugar beans,5kg,yes,yes,171.28
+January,2022,2022-01,food,Tea,250g,yes,yes,23.56
+January,2022,2022-01,food,Tinned pilchards,400g x6,no,no,125.35
+January,2022,2022-01,food,Tomatoes,6kg,no,no,120.33
+January,2022,2022-01,food,Total,44 items,n/a,yes,4401.02
+January,2022,2022-01,food,White bread,25 loaves,yes,yes,348.19
+January,2022,2022-01,food,White sugar,10kg,yes,yes,169.35
+January,2022,2022-01,food,Wors,2kg,no,yes,129.69
+February,2022,2022-02,food,Apples,3kg,no,no,46.24
+February,2022,2022-02,food,Apricot jam,900g,no,yes,29.06
+February,2022,2022-02,food,Bananas,4kg,no,no,63.29
+February,2022,2022-02,food,Beef,2kg,no,yes,168.1
+February,2022,2022-02,food,Beef livers,2kg,no,yes,98.09
+February,2022,2022-02,food,Brown bread,25 loaves,yes,no,313.41
+February,2022,2022-02,food,Butternut,10kg,no,no,74.36
+February,2022,2022-02,food,Cabbage,2 heads,no,no,31.47
+February,2022,2022-02,food,Cake flour,10kg,yes,no,95.47
+February,2022,2022-02,food,Canned beans,410g x6,no,yes,69.2
+February,2022,2022-02,food,Carrots,5kg,no,yes,30.55
+February,2022,2022-02,food,Chicken feet,2kg,no,yes,66.42
+February,2022,2022-02,food,Chicken livers,2kg,no,yes,64.75
+February,2022,2022-02,food,Cooking oil,5L,yes,no,146.29
+February,2022,2022-02,food,Cremora,800g,no,yes,41.22
+February,2022,2022-02,food,Curry powder,200g,yes,yes,31.34
+February,2022,2022-02,food,Eggs,60 eggs,no,no,109.23
+February,2022,2022-02,food,Fish,2kg,no,yes,98.58
+February,2022,2022-02,food,Frozen chicken portions,10kg,yes,yes,361.66
+February,2022,2022-02,food,Full cream milk,6L,no,yes,79.16
+February,2022,2022-02,food,Gizzards,2kg,no,yes,80.79
+February,2022,2022-02,food,Green pepper,2kg,no,yes,42.13
+February,2022,2022-02,food,Inyama yangapakhathi,2kg,no,yes,84.47
+February,2022,2022-02,food,Maas,4L,no,no,49.5
+February,2022,2022-02,food,Maize meal,30kg,yes,no,241.61
+February,2022,2022-02,food,Margarine,1kg,no,yes,40.22
+February,2022,2022-02,food,Onions,10kg,yes,no,71.83
+February,2022,2022-02,food,Oranges,7kg,no,yes,107.53
+February,2022,2022-02,food,Peanut butter,400g x2,no,yes,61.57
+February,2022,2022-02,food,Polony,2.5kg,no,yes,59.37
+February,2022,2022-02,food,Potatoes,10kg,yes,no,63.62
+February,2022,2022-02,food,Rice,10kg,yes,yes,132.49
+February,2022,2022-02,food,Salt,1kg,yes,yes,13.16
+February,2022,2022-02,food,Samp,5kg,yes,no,50.53
+February,2022,2022-02,food,Soup,400g x2,yes,yes,39.26
+February,2022,2022-02,food,Spinach,8 bunches,no,no,90
+February,2022,2022-02,food,Stock cubes,24 cubes x2,yes,yes,36.24
+February,2022,2022-02,food,Sugar beans,5kg,yes,yes,173.2
+February,2022,2022-02,food,Tea,250g,yes,yes,23.35
+February,2022,2022-02,food,Tinned pilchards,400g x6,no,no,127.17
+February,2022,2022-02,food,Tomatoes,6kg,no,no,113.76
+February,2022,2022-02,food,Total,44 items,n/a,yes,4355.7
+February,2022,2022-02,food,White bread,25 loaves,yes,yes,345.09
+February,2022,2022-02,food,White sugar,10kg,yes,yes,165.26
+February,2022,2022-02,food,Wors,2kg,no,yes,125.69
+March,2022,2022-03,food,Apples,3kg,no,no,44.81
+March,2022,2022-03,food,Apricot jam,900g,no,yes,29.26
+March,2022,2022-03,food,Bananas,4kg,no,no,63.17
+March,2022,2022-03,food,Beef,2kg,no,yes,171.43
+March,2022,2022-03,food,Beef livers,2kg,no,yes,97.18
+March,2022,2022-03,food,Brown bread,25 loaves,yes,no,323.43
+March,2022,2022-03,food,Butternut,10kg,no,no,83.09
+March,2022,2022-03,food,Cabbage,2 heads,no,no,34.21
+March,2022,2022-03,food,Cake flour,10kg,yes,no,101.72
+March,2022,2022-03,food,Canned beans,410g x6,no,yes,71.45
+March,2022,2022-03,food,Carrots,5kg,no,yes,34.72
+March,2022,2022-03,food,Chicken feet,2kg,no,yes,71.71
+March,2022,2022-03,food,Chicken livers,2kg,no,yes,67.52
+March,2022,2022-03,food,Cooking oil,5L,yes,no,150.81
+March,2022,2022-03,food,Cremora,800g,no,yes,40.97
+March,2022,2022-03,food,Curry powder,200g,yes,yes,29.87
+March,2022,2022-03,food,Eggs,60 eggs,no,no,114.28
+March,2022,2022-03,food,Fish,2kg,no,yes,101.62
+March,2022,2022-03,food,Frozen chicken portions,10kg,yes,yes,363.67
+March,2022,2022-03,food,Full cream milk,6L,no,yes,79.34
+March,2022,2022-03,food,Gizzards,2kg,no,yes,79.13
+March,2022,2022-03,food,Green pepper,2kg,no,yes,42.37
+March,2022,2022-03,food,Inyama yangapakhathi,2kg,no,yes,85.13
+March,2022,2022-03,food,Maas,4L,no,no,49.85
+March,2022,2022-03,food,Maize meal,30kg,yes,no,244.2
+March,2022,2022-03,food,Margarine,1kg,no,yes,39.08
+March,2022,2022-03,food,Onions,10kg,yes,no,72.29
+March,2022,2022-03,food,Oranges,7kg,no,yes,125.02
+March,2022,2022-03,food,Peanut butter,400g x2,no,yes,63.34
+March,2022,2022-03,food,Polony,2.5kg,no,yes,60.46
+March,2022,2022-03,food,Potatoes,10kg,yes,no,63.71
+March,2022,2022-03,food,Rice,10kg,yes,yes,133.92
+March,2022,2022-03,food,Salt,1kg,yes,yes,13.03
+March,2022,2022-03,food,Samp,5kg,yes,no,51.51
+March,2022,2022-03,food,Soup,400g x2,yes,yes,39.37
+March,2022,2022-03,food,Spinach,8 bunches,no,no,92.07
+March,2022,2022-03,food,Stock cubes,24 cubes x2,yes,yes,37.33
+March,2022,2022-03,food,Sugar beans,5kg,yes,yes,172.97
+March,2022,2022-03,food,Tea,250g,yes,yes,24.47
+March,2022,2022-03,food,Tinned pilchards,400g x6,no,no,125.09
+March,2022,2022-03,food,Tomatoes,6kg,no,no,113.64
+March,2022,2022-03,food,Total,44 items,n/a,yes,4450.09
+March,2022,2022-03,food,White bread,25 loaves,yes,yes,355.42
+March,2022,2022-03,food,White sugar,10kg,yes,yes,166.51
+March,2022,2022-03,food,Wors,2kg,no,yes,125.89
+April,2022,2022-04,food,Apples,3kg,no,no,40.84
+April,2022,2022-04,food,Apricot jam,900g,no,yes,30.85
+April,2022,2022-04,food,Bananas,4kg,no,no,67.53
+April,2022,2022-04,food,Beef,2kg,no,yes,179.31
+April,2022,2022-04,food,Beef livers,2kg,no,yes,98.05
+April,2022,2022-04,food,Brown bread,25 loaves,yes,no,329.41
+April,2022,2022-04,food,Butternut,10kg,no,no,80.14
+April,2022,2022-04,food,Cabbage,2 heads,no,no,37.18
+April,2022,2022-04,food,Cake flour,10kg,yes,no,104.73
+April,2022,2022-04,food,Canned beans,410g x6,no,yes,71.53
+April,2022,2022-04,food,Carrots,5kg,no,yes,35.38
+April,2022,2022-04,food,Chicken feet,2kg,no,yes,70.81
+April,2022,2022-04,food,Chicken livers,2kg,no,yes,64.78
+April,2022,2022-04,food,Cooking oil,5L,yes,no,177.23
+April,2022,2022-04,food,Cremora,800g,no,yes,41.47
+April,2022,2022-04,food,Curry powder,200g,yes,yes,31.2
+April,2022,2022-04,food,Eggs,60 eggs,no,no,118.96
+April,2022,2022-04,food,Fish,2kg,no,yes,110.21
+April,2022,2022-04,food,Frozen chicken portions,10kg,yes,yes,374.64
+April,2022,2022-04,food,Full cream milk,6L,no,yes,80.73
+April,2022,2022-04,food,Gizzards,2kg,no,yes,81.96
+April,2022,2022-04,food,Green pepper,2kg,no,yes,44.68
+April,2022,2022-04,food,Inyama yangapakhathi,2kg,no,yes,85.3
+April,2022,2022-04,food,Maas,4L,no,no,50.15
+April,2022,2022-04,food,Maize meal,30kg,yes,no,252.11
+April,2022,2022-04,food,Margarine,1kg,no,yes,40.04
+April,2022,2022-04,food,Onions,10kg,yes,no,73.37
+April,2022,2022-04,food,Oranges,7kg,no,yes,89.8
+April,2022,2022-04,food,Peanut butter,400g x2,no,yes,65.07
+April,2022,2022-04,food,Polony,2.5kg,no,yes,64
+April,2022,2022-04,food,Potatoes,10kg,yes,no,69.48
+April,2022,2022-04,food,Rice,10kg,yes,yes,135.15
+April,2022,2022-04,food,Salt,1kg,yes,yes,13.26
+April,2022,2022-04,food,Samp,5kg,yes,no,53.04
+April,2022,2022-04,food,Soup,400g x2,yes,yes,38.66
+April,2022,2022-04,food,Spinach,8 bunches,no,no,105.35
+April,2022,2022-04,food,Stock cubes,24 cubes x2,yes,yes,37.6
+April,2022,2022-04,food,Sugar beans,5kg,yes,yes,172.16
+April,2022,2022-04,food,Tea,250g,yes,yes,24.12
+April,2022,2022-04,food,Tinned pilchards,400g x6,no,no,132.53
+April,2022,2022-04,food,Tomatoes,6kg,no,no,113.13
+April,2022,2022-04,food,Total,44 items,n/a,yes,4542.93
+April,2022,2022-04,food,White bread,25 loaves,yes,yes,357.92
+April,2022,2022-04,food,White sugar,10kg,yes,yes,170.04
+April,2022,2022-04,food,Wors,2kg,no,yes,129.06
+May,2022,2022-05,food,Apples,3kg,no,no,38.2
+May,2022,2022-05,food,Apricot jam,900g,no,yes,30.37
+May,2022,2022-05,food,Bananas,4kg,no,no,68.04
+May,2022,2022-05,food,Beef,2kg,no,yes,178.62
+May,2022,2022-05,food,Beef livers,2kg,no,yes,98.03
+May,2022,2022-05,food,Brown bread,25 loaves,yes,no,330.85
+May,2022,2022-05,food,Butternut,10kg,no,no,78.87
+May,2022,2022-05,food,Cabbage,2 heads,no,no,38.3
+May,2022,2022-05,food,Cake flour,10kg,yes,no,108.37
+May,2022,2022-05,food,Canned beans,410g x6,no,yes,71.66
+May,2022,2022-05,food,Carrots,5kg,no,yes,40.71
+May,2022,2022-05,food,Chicken feet,2kg,no,yes,71.51
+May,2022,2022-05,food,Chicken livers,2kg,no,yes,69.04
+May,2022,2022-05,food,Cooking oil,5L,yes,no,201.9
+May,2022,2022-05,food,Cremora,800g,no,yes,41.33
+May,2022,2022-05,food,Curry powder,200g,yes,yes,29.99
+May,2022,2022-05,food,Eggs,60 eggs,no,no,119.27
+May,2022,2022-05,food,Fish,2kg,no,yes,110.11
+May,2022,2022-05,food,Frozen chicken portions,10kg,yes,yes,381.66
+May,2022,2022-05,food,Full cream milk,6L,no,yes,81.37
+May,2022,2022-05,food,Gizzards,2kg,no,yes,81.46
+May,2022,2022-05,food,Green pepper,2kg,no,yes,45.28
+May,2022,2022-05,food,Inyama yangapakhathi,2kg,no,yes,89.52
+May,2022,2022-05,food,Maas,4L,no,no,49.64
+May,2022,2022-05,food,Maize meal,30kg,yes,no,259.54
+May,2022,2022-05,food,Margarine,1kg,no,yes,40.21
+May,2022,2022-05,food,Onions,10kg,yes,no,80.93
+May,2022,2022-05,food,Oranges,7kg,no,yes,63.25
+May,2022,2022-05,food,Peanut butter,400g x2,no,yes,64.8
+May,2022,2022-05,food,Polony,2.5kg,no,yes,63.71
+May,2022,2022-05,food,Potatoes,10kg,yes,no,77.43
+May,2022,2022-05,food,Rice,10kg,yes,yes,133.03
+May,2022,2022-05,food,Salt,1kg,yes,yes,13.01
+May,2022,2022-05,food,Samp,5kg,yes,no,53.51
+May,2022,2022-05,food,Soup,400g x2,yes,yes,39.4
+May,2022,2022-05,food,Spinach,8 bunches,no,no,115.15
+May,2022,2022-05,food,Stock cubes,24 cubes x2,yes,yes,39.11
+May,2022,2022-05,food,Sugar beans,5kg,yes,yes,170.66
+May,2022,2022-05,food,Tea,250g,yes,yes,24.21
+May,2022,2022-05,food,Tinned pilchards,400g x6,no,no,133.54
+May,2022,2022-05,food,Tomatoes,6kg,no,no,116.51
+May,2022,2022-05,food,Total,44 items,n/a,yes,4609.89
+May,2022,2022-05,food,White bread,25 loaves,yes,yes,363.67
+May,2022,2022-05,food,White sugar,10kg,yes,yes,171.15
+May,2022,2022-05,food,Wors,2kg,no,yes,132.95
+June,2022,2022-06,food,Apples,3kg,no,no,35.91
+June,2022,2022-06,food,Apricot jam,900g,no,yes,31.94
+June,2022,2022-06,food,Bananas,4kg,no,no,63.29
+June,2022,2022-06,food,Beef,2kg,no,yes,182.41
+June,2022,2022-06,food,Beef livers,2kg,no,yes,98.5
+June,2022,2022-06,food,Brown bread,25 loaves,yes,no,345.77
+June,2022,2022-06,food,Butternut,10kg,no,no,79.51
+June,2022,2022-06,food,Cabbage,2 heads,no,no,39.43
+June,2022,2022-06,food,Cake flour,10kg,yes,no,115.9
+June,2022,2022-06,food,Canned beans,410g x6,no,yes,73.89
+June,2022,2022-06,food,Carrots,5kg,no,yes,35.67
+June,2022,2022-06,food,Chicken feet,2kg,no,yes,73.38
+June,2022,2022-06,food,Chicken livers,2kg,no,yes,68.29
+June,2022,2022-06,food,Cooking oil,5L,yes,no,228.94
+June,2022,2022-06,food,Cremora,800g,no,yes,43.58
+June,2022,2022-06,food,Curry powder,200g,yes,yes,31.69
+June,2022,2022-06,food,Eggs,60 eggs,no,no,119.84
+June,2022,2022-06,food,Fish,2kg,no,yes,108.53
+June,2022,2022-06,food,Frozen chicken portions,10kg,yes,yes,383.53
+June,2022,2022-06,food,Full cream milk,6L,no,yes,83.01
+June,2022,2022-06,food,Gizzards,2kg,no,yes,81.29
+June,2022,2022-06,food,Green pepper,2kg,no,yes,49.71
+June,2022,2022-06,food,Inyama yangapakhathi,2kg,no,yes,92.12
+June,2022,2022-06,food,Maas,4L,no,no,51.13
+June,2022,2022-06,food,Maize meal,30kg,yes,no,268.88
+June,2022,2022-06,food,Margarine,1kg,no,yes,41.94
+June,2022,2022-06,food,Onions,10kg,yes,no,85.57
+June,2022,2022-06,food,Oranges,7kg,no,yes,51.75
+June,2022,2022-06,food,Peanut butter,400g x2,no,yes,64.35
+June,2022,2022-06,food,Polony,2.5kg,no,yes,62.61
+June,2022,2022-06,food,Potatoes,10kg,yes,no,71.21
+June,2022,2022-06,food,Rice,10kg,yes,yes,132.12
+June,2022,2022-06,food,Salt,1kg,yes,yes,13.47
+June,2022,2022-06,food,Samp,5kg,yes,no,55.29
+June,2022,2022-06,food,Soup,400g x2,yes,yes,40.51
+June,2022,2022-06,food,Spinach,8 bunches,no,no,114.59
+June,2022,2022-06,food,Stock cubes,24 cubes x2,yes,yes,38.81
+June,2022,2022-06,food,Sugar beans,5kg,yes,yes,172.68
+June,2022,2022-06,food,Tea,250g,yes,yes,24.18
+June,2022,2022-06,food,Tinned pilchards,400g x6,no,no,135.11
+June,2022,2022-06,food,Tomatoes,6kg,no,no,108.52
+June,2022,2022-06,food,Total,44 items,n/a,yes,4688.81
+June,2022,2022-06,food,White bread,25 loaves,yes,yes,378.59
+June,2022,2022-06,food,White sugar,10kg,yes,yes,173.17
+June,2022,2022-06,food,Wors,2kg,no,yes,138.19
+July,2022,2022-07,food,Maize meal,30kg,yes,no,283.54
+July,2022,2022-07,food,Rice,10kg,yes,no,134.58
+July,2022,2022-07,food,Cake Flour,10kg,yes,no,118.37
+July,2022,2022-07,food,White sugar,10kg,yes,yes,175.9
+July,2022,2022-07,food,Sugar beans,5kg,yes,no,172.85
+July,2022,2022-07,food,Samp,5kg,yes,no,57.47
+July,2022,2022-07,food,Cooking oil,5L,yes,no,230.44
+July,2022,2022-07,food,Salt,1kg,yes,yes,13.87
+July,2022,2022-07,food,Potatoes,10kg,yes,no,73.77
+July,2022,2022-07,food,Onions,10kg,yes,no,86.8
+July,2022,2022-07,food,Frozen chicken portions,10kg,yes,yes,377.13
+July,2022,2022-07,food,Curry powder,200g,yes,yes,31.44
+July,2022,2022-07,food,Stock cubes,24 cubes x2,yes,yes,40.04
+July,2022,2022-07,food,Soup,400g x2,yes,yes,38.81
+July,2022,2022-07,food,Tea,250g,yes,yes,24.8
+July,2022,2022-07,food,Full cream milk,6L,no,no,83.98
+July,2022,2022-07,food,Maas,4L,no,no,51.3
+July,2022,2022-07,food,Eggs,60 eggs,no,no,121.17
+July,2022,2022-07,food,Chicken feet,2kg,no,yes,73.36
+July,2022,2022-07,food,Gizzards,2kg,no,yes,78.11
+July,2022,2022-07,food,Chicken livers,2kg,no,yes,67.54
+July,2022,2022-07,food,Beef livers,2kg,no,yes,97.25
+July,2022,2022-07,food,Beef,2kg,no,yes,184.3
+July,2022,2022-07,food,Wors,2kg,no,yes,135.37
+July,2022,2022-07,food,Inyama yangaphakathi,2kg,no,yes,91.15
+July,2022,2022-07,food,Fish,2kg,no,yes,116.56
+July,2022,2022-07,food,Tomatoes,6kg,no,no,117.16
+July,2022,2022-07,food,Carrots,5kg,no,no,40.05
+July,2022,2022-07,food,Butternut,10kg,no,no,82.09
+July,2022,2022-07,food,Spinach,8 bunches,no,no,120.14
+July,2022,2022-07,food,Cabbage,2 heads,no,no,37.47
+July,2022,2022-07,food,Green pepper,2kg,no,no,53.01
+July,2022,2022-07,food,Cremora,800g,no,yes,44.29
+July,2022,2022-07,food,Tinned pilchards,400g x6,no,no,138.26
+July,2022,2022-07,food,Canned beans,410g x6,no,yes,73.18
+July,2022,2022-07,food,Bananas,4kg,no,no,64.52
+July,2022,2022-07,food,Apples,3kg,no,no,39.04
+July,2022,2022-07,food,Oranges,7kg,no,no,50.51
+July,2022,2022-07,food,Margarine,1kg,no,yes,41.04
+July,2022,2022-07,food,Peanut butter,400g x2,no,yes,65.65
+July,2022,2022-07,food,Polony,2.5kg,no,yes,63.86
+July,2022,2022-07,food,Apricot jam,900g,no,yes,32.38
+July,2022,2022-07,food,White bread,25 loaves,yes,yes,380.24
+July,2022,2022-07,food,Brown bread,25 loaves,yes,no,346.09
+July,2022,2022-07,food,Total,44 items,n/a,n/a,4748.87
+August,2022,2022-08,food,Maize meal,30kg,yes,no,294.24
+August,2022,2022-08,food,Rice,10kg,yes,no,134.47
+August,2022,2022-08,food,Cake Flour,10kg,yes,no,121.74
+August,2022,2022-08,food,White sugar,10kg,yes,yes,174.38
+August,2022,2022-08,food,Sugar beans,5kg,yes,no,170.25
+August,2022,2022-08,food,Samp,5kg,yes,no,58.63
+August,2022,2022-08,food,Cooking oil,5L,yes,no,231.55
+August,2022,2022-08,food,Salt,1kg,yes,yes,13.8
+August,2022,2022-08,food,Potatoes,10kg,yes,no,72.53
+August,2022,2022-08,food,Onions,10kg,yes,no,83.69
+August,2022,2022-08,food,Frozen chicken portions,10kg,yes,yes,385.37
+August,2022,2022-08,food,Curry powder,200g,yes,yes,30.53
+August,2022,2022-08,food,Stock cubes,24 cubes x2,yes,yes,41.09
+August,2022,2022-08,food,Soup,400g x2,yes,yes,41.61
+August,2022,2022-08,food,Tea,250g,yes,yes,24.67
+August,2022,2022-08,food,Full cream milk,6L,no,no,83.92
+August,2022,2022-08,food,Maas,4L,no,no,50.99
+August,2022,2022-08,food,Eggs,60 eggs,no,no,121.12
+August,2022,2022-08,food,Chicken feet,2kg,no,yes,72.78
+August,2022,2022-08,food,Gizzards,2kg,no,yes,84.37
+August,2022,2022-08,food,Chicken livers,2kg,no,yes,69.39
+August,2022,2022-08,food,Beef livers,2kg,no,yes,96.1
+August,2022,2022-08,food,Beef,2kg,no,yes,184.4
+August,2022,2022-08,food,Wors,2kg,no,yes,131.04
+August,2022,2022-08,food,Inyama yangaphakathi,2kg,no,yes,97.04
+August,2022,2022-08,food,Fish,2kg,no,yes,114.26
+August,2022,2022-08,food,Tomatoes,6kg,no,no,122.2
+August,2022,2022-08,food,Carrots,5kg,no,no,34.91
+August,2022,2022-08,food,Butternut,10kg,no,no,92.06
+August,2022,2022-08,food,Spinach,8 bunches,no,no,109.87
+August,2022,2022-08,food,Cabbage,2 heads,no,no,36.87
+August,2022,2022-08,food,Green pepper,2kg,no,no,53.47
+August,2022,2022-08,food,Cremora,800g,no,yes,44.11
+August,2022,2022-08,food,Tinned pilchards,400g x6,no,no,133.58
+August,2022,2022-08,food,Canned beans,410g x6,no,yes,76.52
+August,2022,2022-08,food,Bananas,4kg,no,no,58.3
+August,2022,2022-08,food,Apples,3kg,no,no,40.79
+August,2022,2022-08,food,Oranges,7kg,no,no,36.35
+August,2022,2022-08,food,Margarine,1kg,no,yes,41.72
+August,2022,2022-08,food,Peanut butter,400g x2,no,yes,68.48
+August,2022,2022-08,food,Polony,2.5kg,no,yes,62.42
+August,2022,2022-08,food,Apricot jam,900g,no,yes,33.62
+August,2022,2022-08,food,White bread,25 loaves,yes,yes,386.59
+August,2022,2022-08,food,Brown bread,25 loaves,yes,no,359.8
+August,2022,2022-08,food,Total,44 items,n/a,n/a,4775.59
+September,2022,2022-09,food,Maize meal,30kg,yes,no,R293.44
+September,2022,2022-09,food,Rice,10kg,yes,no,R135.22
+September,2022,2022-09,food,Cake Flour,10kg,yes,no,R120.51
+September,2022,2022-09,food,White sugar,10kg,yes,yes,R175.65
+September,2022,2022-09,food,Sugar beans,5kg,yes,no,R172.66
+September,2022,2022-09,food,Samp,5kg,yes,no,R58.39
+September,2022,2022-09,food,Cooking oil,5L,yes,no,R210.86
+September,2022,2022-09,food,Salt,1kg,yes,yes,R13.48
+September,2022,2022-09,food,Potatoes,10kg,yes,no,R70.42
+September,2022,2022-09,food,Onions,10kg,yes,no,R93.95
+September,2022,2022-09,food,Frozen chicken portions,10kg,yes,yes,R392.35
+September,2022,2022-09,food,Curry powder,200g,yes,yes,R31.51
+September,2022,2022-09,food,Stock cubes,24 cubes x2,yes,yes,R43.18
+September,2022,2022-09,food,Soup,400g x2,yes,yes,R39.98
+September,2022,2022-09,food,Tea,250g,yes,yes,R24.49
+September,2022,2022-09,food,Full cream milk,6L,no,no,R86.51
+September,2022,2022-09,food,Maas,4L,no,no,R52.62
+September,2022,2022-09,food,Eggs,60 eggs,no,no,R119.05
+September,2022,2022-09,food,Chicken feet,2kg,no,yes,R71.00
+September,2022,2022-09,food,Gizzards,2kg,no,yes,R84.08
+September,2022,2022-09,food,Chicken livers,2kg,no,yes,R65.69
+September,2022,2022-09,food,Beef livers,2kg,no,yes,R96.08
+September,2022,2022-09,food,Beef,2kg,no,yes,R188.18
+September,2022,2022-09,food,Wors,2kg,no,yes,R137.83
+September,2022,2022-09,food,Inyama yangaphakathi,2kg,no,yes,R93.60
+September,2022,2022-09,food,Fish,2kg,no,yes,R109.63
+September,2022,2022-09,food,Tomatoes,6kg,no,no,R128.20
+September,2022,2022-09,food,Carrots,5kg,no,no,R32.78
+September,2022,2022-09,food,Butternut,10kg,no,no,R101.06
+September,2022,2022-09,food,Spinach,8 bunches,no,no,R99.93
+September,2022,2022-09,food,Cabbage,2 heads,no,no,R36.79
+September,2022,2022-09,food,Green pepper,2kg,no,no,R50.94
+September,2022,2022-09,food,Cremora,800g,no,yes,R43.81
+September,2022,2022-09,food,Tinned pilchards,400g x6,no,no,R136.34
+September,2022,2022-09,food,Canned beans,410g x6,no,yes,R77.99
+September,2022,2022-09,food,Bananas,4kg,no,no,R59.62
+September,2022,2022-09,food,Apples,3kg,no,no,R39.22
+September,2022,2022-09,food,Oranges,7kg,no,no,R39.21
+September,2022,2022-09,food,Margarine,1kg,no,yes,R42.49
+September,2022,2022-09,food,Peanut butter,400g x2,no,yes,R64.93
+September,2022,2022-09,food,Polony,2.5kg,no,yes,R60.77
+September,2022,2022-09,food,Apricot jam,900g,no,yes,R33.06
+September,2022,2022-09,food,White bread,25 loaves,yes,yes,R409.24
+September,2022,2022-09,food,Brown bread,25 loaves,yes,no,R369.12
+September,2022,2022-09,food,Total,44 items,n/a,,R4805.86

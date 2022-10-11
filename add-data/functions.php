@@ -21,7 +21,7 @@ function loadCsv($filename, $dbname) {
     // create table
     $create = "CREATE table $dbname (";
     foreach($keys as $key) { 
-        $create .= "$key varchar(255), ";
+        $create .= "`$key` varchar(255), ";
     }
     $create .= "ddid int(10) NOT NULL AUTO_INCREMENT, PRIMARY KEY (ddid))";
  echo $create;
