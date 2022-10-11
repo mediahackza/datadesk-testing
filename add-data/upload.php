@@ -12,7 +12,7 @@ include("../conf.php");
     $errors = []; // Store errors here
 
     $fileExtensionsAllowed = ['csv']; // These will be the only file extensions allowed 
-    $tablename = $_POST['table_name'];
+    $tableName = $_POST['table_name'];
     $fileName = $_FILES['the_file']['name'];
     $fileSize = $_FILES['the_file']['size'];
     $fileTmpName  = $_FILES['the_file']['tmp_name'];
@@ -42,15 +42,17 @@ include("../conf.php");
           // add to DB
           $prefix = "dd2";
           $dbname = $prefix . "_" . randomString();
-          if(!loadCsv($fileName, $dbname)) { 
-            echo "There was a problem loading that file"; 
-          }
-          else { 
-          $insert = "INSERT into $tableList (db_name, table_name) VALUES ('$dbname', '$tablename')";
+          loadCsvFget($fileName, $dbname, $tableName);
+
+        //   if(!loadCsv($fileName, $dbname)) { 
+        //     echo "There was a problem loading that file"; 
+        //   }
+        //   else { 
+        //   $insert = "INSERT into $tableList (db_name, table_name) VALUES ('$dbname', '$tablename')";
   
-        $db->query($insert);
-        echo "File has been loaded. <a href='../manage/'>Click here</a> to return to list of data tables";
-          }
+        // $db->query($insert);
+        // echo "File has been loaded. <a href='../manage/'>Click here</a> to return to list of data tables";
+        //   }
 
         } else {
           echo "An error occurred. Please contact the administrator.";
