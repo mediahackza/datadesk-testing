@@ -5,6 +5,7 @@ $mysql_login = "tectobhjww_26";
 $mysql_password = "NpwqYgwX8Bpdzyh3zdS8";
 $database = "datadesk";
 $tableList = "table_list";
+$insertBatchCount = 500;
 
 
 $db = new mysqli($hostname, $mysql_login, $mysql_password, $database);

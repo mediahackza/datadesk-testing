@@ -1,4 +1,5 @@
 <?php
+
 function randomString() { 
     // Need a better random alphanumeric generator
     $characters = '0123456789abcdefghijklmnopqrstuvwxyz';
@@ -10,82 +11,58 @@ function randomString() {
     return $randomString;
 }
 
-function loadCsvFget($filename, $dbname, $tablename) { 
-global $db, $tableList;
-$uploads = getcwd() . "/uploads/";
-$fileLink = $uploads . $filename;
-// create table 
-$csv = array_map("str_getcsv", file($fileLink,FILE_SKIP_EMPTY_LINES));
-    $keys = array_shift($csv);
-    $create = "CREATE table $dbname (";
+function loadCsv($filename, $dbname, $tablename) { 
+    global $db, $tableList, $insertBatchCount;
+  
+    $uploads = getcwd() . "/uploads/";
+    $filelink = $uploads . $filename;
+    // create table 
+    $csv = array_map("str_getcsv", file($filelink,FILE_SKIP_EMPTY_LINES));
+        $keys = array_shift($csv);
+        $create = "CREATE table $dbname (";
+        foreach($keys as $key) { 
+            $create .= "`$key` varchar(255), ";
+        }
+        $create .= "ddid int(10) NOT NULL AUTO_INCREMENT, PRIMARY KEY (ddid))";
+        $create = $db->query($create);
+
+// add data ==========================================================
+
+$file = fopen($filelink, "r");
+$defaultinsert = "INSERT into $dbname (";
     foreach($keys as $key) { 
-        $create .= "`$key` varchar(255), ";
+        $defaultinsert .= "`$key`, ";
     }
-    $create .= "ddid int(10) NOT NULL AUTO_INCREMENT, PRIMARY KEY (ddid))";
-    $create = $db->query($create);
-// add data
+    $defaultinsert = rtrim($defaultinsert, ", ");
+    $defaultinsert .= ") VALUES (";
 
-$file = fopen($fileLink, "r");
-          while (($getData = fgetcsv($file, 10000, ",")) !== FALSE) {
-            if($notFirstLine) { 
-                $insert = "INSERT into $dbname (";
-                foreach($keys as $key) { 
-                    $insert .= "`$key`, ";
-                }
-                $insert = rtrim($insert, ", ");
-                $insert .= ") VALUES (";
-                foreach($getData as $data) { 
-                    $insert .= "'$data', ";
-                }
-                $insert = rtrim($insert, ", ");
-                $insert .= ")";
-                $insert = $db->query($insert);
-            }
-            $notFirstLine = true;
-           
-          }
+$insert = $defaultinsert;
 
-          // add to table list
+$getData = fgetcsv($file, 10000, ","); 
+$count = 0; 
+$loop = 0;
+
+while (($getData = fgetcsv($file, 10000, ",")) !== FALSE) {
+    foreach($getData as $data) { 
+        $insert .= "'$data', ";
+    }
+    $insert = rtrim($insert, ", ");
+    $insert .= ")";
+    
+    if($count == $insertBatchCount + 1) { 
+        $count = 0; 
+        $db -> query($insert);
+        $insert = $defaultinsert;} 
+        else { 
+            $insert .= ", (";
+            $count++; 
+        }
+    }
+
         $add = "INSERT into $tableList (db_name, table_name) VALUES ('$dbname', '$tablename')";
         $add = $db->query($add);
 
-
-          header("Location: ../manage/");
+return true;
 } 
-
-// load file into MySQL
-// Uses loadinfile which doesn't work widely
-function loadCsv($filename, $dbname) { 
-    
-    global $db;
-    $uploads = getcwd() . "/uploads/";
-
-    $csv = array_map("str_getcsv", file($uploads . $filename,FILE_SKIP_EMPTY_LINES));
-    $keys = array_shift($csv);
-    $create = "CREATE table $dbname (";
-    foreach($keys as $key) { 
-        $create .= "`$key` varchar(255), ";
-    }
-    $create .= "ddid int(10) NOT NULL AUTO_INCREMENT, PRIMARY KEY (ddid))";
-    $create = $db->query($create);
-
-$fileLink = $uploads . $filename;
-
-$query = "LOAD DATA LOCAL INFILE '$fileLink' INTO TABLE $dbname FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '\"' LINES TERMINATED BY '\n' IGNORE 1 LINES"; 
-
-unlink($fileLink); // Remove uploaded file
-
-
-if($db->query($query)) { 
-    return true;
-}
-else { 
-   return false;
-}
-
-
-
-
-}
 
 ?>

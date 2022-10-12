@@ -1,7 +1,7 @@
 <?php
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
+// ini_set('display_errors', 1);
+// ini_set('display_startup_errors', 1);
+// error_reporting(E_ALL);
 include("functions.php");
 include("../conf.php");
 
@@ -42,17 +42,15 @@ include("../conf.php");
           // add to DB
           $prefix = "dd2";
           $dbname = $prefix . "_" . randomString();
-          loadCsvFget($fileName, $dbname, $tableName);
-
-        //   if(!loadCsv($fileName, $dbname)) { 
-        //     echo "There was a problem loading that file"; 
-        //   }
-        //   else { 
-        //   $insert = "INSERT into $tableList (db_name, table_name) VALUES ('$dbname', '$tablename')";
-  
-        // $db->query($insert);
-        // echo "File has been loaded. <a href='../manage/'>Click here</a> to return to list of data tables";
-        //   }
+          
+          // loadCsv($fileName, $dbname, $tableName);
+          if(loadCsv($fileName, $dbname, $tableName)) { 
+            echo "Success. <a href='../manage/'>Click here</a> to continue";
+          }
+          else { 
+            echo "Error. <a href='../manage/'>Click here</a> to continue";
+          }
+         
 
         } else {
           echo "An error occurred. Please contact the administrator.";
